@@ -1,0 +1,951 @@
+"city","date","day.of.week","time","time.hour","lat","lng","subject.age","subject.race","subject.sex","violation","outcome","vehicle.make","vehicle.colour","vehicle.year"
+"sa","2016-10-24","Monday","12:35:00",12.5833333333333,29.3638748,-98.5214317,19,"black","male","SPEEDING-POSTED LIMIT","citation","ford","white",2015
+"sa","2014-01-24","Friday","18:30:00",18.5,29.4239956,-98.3970726,35,"hispanic","female","AUTHORIZE OR KNOWINGLY PERMIT UNAUTHORIZED PERSON TO DRIVE|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","chevrolet","other",2007
+"sa","2020-06-18","Thursday","06:28:00",6.46666666666667,29.5650883,-98.5917656,31,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","chevrolet","white",2014
+"sa","2020-05-22","Friday","14:58:00",14.9666666666667,29.402241,-98.6230975,49,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2014
+"sa","2019-03-23","Saturday","09:42:00",9.7,29.5204208,-98.4897358,44,"hispanic","male","SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","toyota","black",2016
+"sa","2017-08-15","Tuesday","10:04:00",10.0666666666667,29.5027572,-98.3987597,39,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2003
+"sa","2013-07-02","Tuesday","10:40:00",10.6666666666667,29.4169091,-98.4800119,38,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","white",1998
+"sa","2015-12-08","Tuesday","10:44:00",10.7333333333333,29.362938,-98.4447572,18,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","honda","silver",2002
+"sa","2018-05-24","Thursday","12:54:00",12.9,29.4614209,-98.5226778,20,"hispanic","female","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","silver",2012
+"sa","2012-10-24","Wednesday","21:04:00",21.0666666666667,29.5201085,-98.4913626,22,"white","male","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","white",2012
+"sa","2019-07-06","Saturday","08:41:00",8.68333333333333,29.5102525,-98.5371682,26,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2018
+"sa","2018-08-27","Monday","14:43:00",14.7166666666667,29.3795562,-98.512713,30,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2017
+"sa","2020-05-19","Tuesday","08:58:00",8.96666666666667,29.5650883,-98.5917656,26,"hispanic","male","SPEEDING-POSTED LIMIT|FAILURE TO DISPLAY DRIVER'S LICENSE|FAIL TO CHANGE ADDRESS ON LICENSE","citation","other","other",2013
+"sa","2012-05-20","Sunday","15:31:00",15.5166666666667,29.5154882,-98.3959056,42,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2011
+"sa","2012-03-22","Thursday","23:45:00",23.75,29.5482042,-98.4852699,28,"hispanic","male","POSSESSION OF OPEN CONTAINER","citation","other","other",1988
+"sa","2013-10-21","Monday","15:45:00",15.75,29.4378536,-98.381957,48,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2004
+"sa","2017-10-09","Monday","14:01:00",14.0166666666667,29.3528029,-98.5290482,24,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING IN SCHOOL ZONE|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","chevrolet","other",1998
+"sa","2015-11-25","Wednesday","10:52:00",10.8666666666667,29.3728036,-98.5152554,40,"hispanic","male","SPEEDING-POSTED LIMIT|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","ford","other",1997
+"sa","2017-05-02","Tuesday","21:15:00",21.25,29.3690589,-98.6007581,62,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","black",2008
+"sa","2016-03-03","Thursday","20:30:00",20.5,29.4247962,-98.4816434,43,"white","female","SPEEDING-POSTED LIMIT|FAIL TO CHANGE ADDRESS ON LICENSE","citation","toyota","silver",2004
+"sa","2019-11-04","Monday","14:47:00",14.7833333333333,29.3528029,-98.5290482,23,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","black",1999
+"sa","2018-11-15","Thursday","08:59:00",8.98333333333333,29.427308,-98.5178381,52,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","ford","other",1999
+"sa","2016-10-26","Wednesday","16:15:00",16.25,29.3206883,-98.5012084,19,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","honda","white",2009
+"sa","2016-09-01","Thursday","00:05:00",0.0833333333333333,29.522654,-98.3991105,41,"white","male","WRONG WAY ONE-WAY STREET|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","white",2002
+"sa","2017-03-23","Thursday","18:22:00",18.3666666666667,29.3565872,-98.5231434,26,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","ford","other",2009
+"sa","2016-08-29","Monday","09:03:00",9.05,29.3675869,-98.5183728,50,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","white",2013
+"sa","2014-04-10","Thursday","12:00:00",12,29.520183,-98.5016784,24,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|IMPROPER RIGHT OR LEFT TURN - SIGNAL","citation","ford","black",2008
+"sa","2018-06-25","Monday","12:56:00",12.9333333333333,29.3563398,-98.5251262,29,"black","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","chevrolet","white",2002
+"sa","2013-07-23","Tuesday","18:15:00",18.25,29.4340278,-98.5469012,27,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2006
+"sa","2012-06-13","Wednesday","22:23:00",22.3833333333333,29.5228792,-98.364786,50,"white","female","DISREGARD RED LIGHT","citation","toyota","other",2008
+"sa","2017-10-18","Wednesday","15:01:00",15.0166666666667,29.4176684,-98.6673235,31,"hispanic","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","honda","black",2006
+"sa","2016-03-14","Monday","18:25:00",18.4166666666667,29.3681068,-98.5329027,18,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","other",1986
+"sa","2017-04-07","Friday","09:30:00",9.5,29.4063982,-98.6179241,23,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2016
+"sa","2017-10-09","Monday","05:53:00",5.88333333333333,29.4063982,-98.6179241,47,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2014
+"sa","2018-08-15","Wednesday","08:03:00",8.05,29.3743991,-98.4883893,22,"black","male","SPEEDING-POSTED LIMIT","citation","other","other",2014
+"sa","2012-11-07","Wednesday","19:52:00",19.8666666666667,29.4699621,-98.5309972,27,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING-POSTED LIMIT|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","chevrolet","other",2002
+"sa","2012-10-05","Friday","09:48:00",9.8,29.4612437,-98.63334,25,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2011
+"sa","2018-01-03","Wednesday","15:41:00",15.6833333333333,29.3383589,-98.5614784,40,"white","female","SPEEDING-POSTED LIMIT","citation","other","black",2006
+"sa","2016-06-28","Tuesday","14:19:00",14.3166666666667,29.591314,-98.4675909,33,"white","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE|DRIVING WHILE LICENSE INVALID|FAILURE TO DISPLAY VALID LICENSE PLATE","citation","chevrolet","other",1993
+"sa","2012-01-23","Monday","15:16:00",15.2666666666667,29.4885991,-98.5137554,31,"black","male","SPEEDING IN SCHOOL ZONE","citation","other","gray",2002
+"sa","2016-11-03","Thursday","12:26:00",12.4333333333333,29.4078615,-98.5026401,42,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2016
+"sa","2016-08-30","Tuesday","15:11:00",15.1833333333333,29.4377144,-98.3801421,28,"hispanic","female","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2011
+"sa","2017-01-28","Saturday","09:23:00",9.38333333333333,29.6163166,-98.2565611,55,"black","female","SPEEDING-POSTED LIMIT|IMPROPER LANE CHANGE","citation","other","black",2016
+"sa","2013-05-13","Monday","12:25:00",12.4166666666667,29.5226673,-98.4148891,25,"black","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|FAILURE TO DISPLAY VALID LICENSE PLATE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","black",2004
+"sa","2014-04-21","Monday","23:27:00",23.45,29.3366832,-98.4629124,41,"other","female","DISREGARD STOP SIGN","citation","other","white",2013
+"sa","2015-05-05","Tuesday","15:20:00",15.3333333333333,29.3586708,-98.5636653,52,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2004
+"sa","2014-03-25","Tuesday","20:05:00",20.0833333333333,29.4002311,-98.5120868,32,"white","male","SPEEDING-POSTED LIMIT|DRIVING WHILE LICENSE INVALID","citation","other","black",2008
+"sa","2012-04-10","Tuesday","10:14:00",10.2333333333333,29.6712566,-98.158275,35,"white","male","IMPROPER LANE CHANGE -SIGNAL|SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","chevrolet","black",2011
+"sa","2019-02-26","Tuesday","08:25:00",8.41666666666667,29.370574,-98.5340334,34,"hispanic","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","other",2004
+"sa","2018-08-29","Wednesday","11:19:00",11.3166666666667,29.4868855,-98.5867043,48,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","other",2015
+"sa","2013-03-27","Wednesday","16:43:00",16.7166666666667,29.35776,-98.524687,33,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2004
+"sa","2013-09-13","Friday","21:53:00",21.8833333333333,29.4522211,-98.4166905,27,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","silver",2003
+"sa","2018-02-24","Saturday","10:04:00",10.0666666666667,29.520108,-98.4920612,29,"hispanic","female","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","gray",2010
+"sa","2014-04-09","Wednesday","11:56:00",11.9333333333333,29.362938,-98.4447572,45,"white","male","IMPROPER LANE CHANGE -SIGNAL","citation","ford","white",2012
+"sa","2018-12-21","Friday","08:07:00",8.11666666666667,29.5506167,-98.5716209,29,"hispanic","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","black",2009
+"sa","2014-01-14","Tuesday","14:18:00",14.3,29.371476,-98.5337137,60,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","other","other",2002
+"sa","2020-01-16","Thursday","17:14:00",17.2333333333333,29.572809294,-98.418099973,57,"white","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","honda","other",2002
+"sa","2016-04-27","Wednesday","07:52:00",7.86666666666667,29.5201085,-98.4913626,31,"hispanic","male","SPEEDING-POSTED LIMIT","citation","honda","gray",2015
+"sa","2013-01-24","Thursday","13:00:00",13,29.4247962,-98.4816434,32,"white","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","other",1995
+"sa","2014-02-02","Sunday","00:09:00",0.15,29.5404366,-98.4434567,37,"white","female","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2013
+"sa","2014-08-11","Monday","11:39:00",11.65,29.5023704,-98.3966651,30,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2014
+"sa","2012-01-12","Thursday","15:42:00",15.7,29.4768373,-98.4988677,29,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING IN SCHOOL ZONE","citation","other","silver",2004
+"sa","2014-03-22","Saturday","13:07:00",13.1166666666667,29.4936367,-98.5544751,37,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2014
+"sa","2014-08-15","Friday","13:05:00",13.0833333333333,29.6709308,-98.1598547,44,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",2007
+"sa","2017-06-06","Tuesday","08:48:00",8.8,29.4078615,-98.5026401,32,"hispanic","male","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","other",2001
+"sa","2013-11-28","Thursday","00:15:00",0.25,29.5741811,-98.6316091,57,"white","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","gray",2013
+"sa","2012-03-08","Thursday","13:10:00",13.1666666666667,29.4202547,-98.5877502,22,"hispanic","female","IMPROPER LANE CHANGE -SIGNAL|SPEEDING-POSTED LIMIT","citation","toyota","other",2010
+"sa","2014-10-28","Tuesday","22:49:00",22.8166666666667,29.5057234,-98.5443112,24,"hispanic","female","DRIVING ON LEFT - IMPROVED SHOULDER|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","other","other",2009
+"sa","2014-07-24","Thursday","12:45:00",12.75,29.4486291,-98.6981842,51,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","other","silver",2000
+"sa","2013-05-16","Thursday","11:50:00",11.8333333333333,29.4934207,-98.4001767,39,"hispanic","male","IMPROPER LANE CHANGE -SIGNAL","citation","other","black",2011
+"sa","2013-04-08","Monday","17:34:00",17.5666666666667,29.3116619,-98.5320849,50,"hispanic","female","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2003
+"sa","2014-07-11","Friday","01:30:00",1.5,29.450037,-98.4058801,26,"hispanic","male","SPEEDING-POSTED LIMIT|IMPROPER RIGHT OR LEFT TURN - SIGNAL|FAILURE TO DRIVE WITHIN A SINGLE LANE","citation","other","other",2005
+"sa","2015-06-12","Friday","13:57:00",13.95,29.3528029,-98.5290482,30,"black","male","SPEEDING-POSTED LIMIT","citation","other","white",2015
+"sa","2017-04-13","Thursday","09:51:00",9.85,29.5650883,-98.5917656,29,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","black",2014
+"sa","2015-09-03","Thursday","11:15:00",11.25,29.4610725,-98.3097869,62,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","silver",2002
+"sa","2015-01-13","Tuesday","14:55:00",14.9166666666667,29.417313,-98.5091432,32,"hispanic","female","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2014
+"sa","2016-06-22","Wednesday","10:33:00",10.55,29.5050817,-98.3987269,31,"black","male","SPEEDING-POSTED LIMIT","citation","other","silver",2006
+"sa","2013-09-19","Thursday","18:06:00",18.1,29.5154882,-98.3959056,23,"white","female","SPEEDING-POSTED LIMIT","citation","other","black",2012
+"sa","2014-01-09","Thursday","14:48:00",14.8,29.413354,-98.4322416,48,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2006
+"sa","2019-05-15","Wednesday","07:55:00",7.91666666666667,29.636681,-98.5086624,48,"white","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","chevrolet","white",2014
+"sa","2013-07-12","Friday","18:09:00",18.15,29.5650883,-98.5917656,22,"black","female","SPEEDING-POSTED LIMIT","citation","other","black",2013
+"sa","2019-02-20","Wednesday","11:57:00",11.95,29.5650883,-98.5917656,57,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2013
+"sa","2018-06-23","Saturday","10:12:00",10.2,29.520108,-98.4920612,44,"white","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","ford","white",2005
+"sa","2019-09-04","Wednesday","14:00:00",14,29.2923249,-98.4727669,34,"asian/pacific islander","female","SPEEDING-POSTED LIMIT","citation","toyota","white",2013
+"sa","2014-09-09","Tuesday","07:49:00",7.81666666666667,29.4145915,-98.4567347,23,"black","male","NO VALID CERTIFICATE OF INSPECTION|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",1998
+"sa","2014-11-23","Sunday","22:53:00",22.8833333333333,29.5215417,-98.4836823,33,"black","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|FAILURE TO DRIVE WITHIN A SINGLE LANE","citation","other","other",2000
+"sa","2016-01-08","Friday","08:22:00",8.36666666666667,29.3482331,-98.5381949,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2013
+"sa","2019-01-24","Thursday","09:46:00",9.76666666666667,29.3516625,-98.4430481,43,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2018
+"sa","2018-04-12","Thursday","19:38:00",19.6333333333333,29.417841,-98.669947,31,"hispanic","male","DRIVING WHILE LICENSE INVALID","citation","other","other",2014
+"sa","2015-02-06","Friday","09:01:00",9.01666666666667,29.5201085,-98.4913626,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","gray",2002
+"sa","2018-02-28","Wednesday","23:35:00",23.5833333333333,29.5650883,-98.5917656,24,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|DISREGARD RED LIGHT","citation","chevrolet","gray",2002
+"sa","2013-02-28","Thursday","08:48:00",8.8,29.3376841,-98.5646193,42,"black","male","FAIL TO MOVE VEHICLE - FREEWAY ACCIDENT","citation","ford","other",2002
+"sa","2018-07-03","Tuesday","06:05:00",6.08333333333333,29.4241219,-98.4936282,54,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2018
+"sa","2019-07-20","Saturday","10:49:00",10.8166666666667,29.6088917,-98.6024168,25,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","silver",2016
+"sa","2016-03-04","Friday","13:44:00",13.7333333333333,29.3562574,-98.4903172,27,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","honda","other",2006
+"sa","2013-01-01","Tuesday","11:12:00",11.2,29.3206883,-98.5012084,46,"white","male","FAIL TO CHANGE ADDRESS-IDENTIFICATION CERTIFICATE|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",1989
+"sa","2013-12-18","Wednesday","11:45:00",11.75,29.540172,-98.376535,31,"hispanic","male","DRIVING DIVIDED HIGHWAY","citation","honda","other",2011
+"sa","2014-12-10","Wednesday","14:17:00",14.2833333333333,29.3582881,-98.5644199,21,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","other",2005
+"sa","2019-03-26","Tuesday","12:14:00",12.2333333333333,29.3790729,-98.3912328,54,"white","female","SPEEDING-POSTED LIMIT","citation","honda","other",2017
+"sa","2020-02-12","Wednesday","13:04:00",13.0666666666667,29.5650883,-98.5917656,19,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","white",2012
+"sa","2012-09-06","Thursday","00:57:00",0.95,29.4891697,-98.3862109,52,"hispanic","male","FAIL TO CHANGE ADDRESS ON LICENSE|FAILED TO STOP LEAVING PRIVATE PROPERTY","citation","ford","other",2012
+"sa","2015-11-08","Sunday","18:39:00",18.65,29.493402,-98.5957791,31,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|HEADLAMPS REQUIRED","citation","chevrolet","other",2007
+"sa","2017-02-15","Wednesday","12:25:00",12.4166666666667,29.5335134,-98.4538715,69,"hispanic","female","SPEEDING-POSTED LIMIT","citation","chevrolet","silver",2010
+"sa","2013-05-20","Monday","20:33:00",20.55,29.3870489,-98.6438392,54,"white","male","SPEEDING-POSTED LIMIT","citation","other","gray",2011
+"sa","2015-07-15","Wednesday","17:50:00",17.8333333333333,29.3612368,-98.5221676,29,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","other","gray",2014
+"sa","2015-05-08","Friday","12:39:00",12.65,29.52291,-98.494705,22,"white","female","SPEEDING-POSTED LIMIT","citation","toyota","white",2012
+"sa","2015-04-02","Thursday","22:35:00",22.5833333333333,29.3995437,-98.5436614,22,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","gray",2006
+"sa","2012-11-12","Monday","10:50:00",10.8333333333333,29.5650883,-98.5917656,20,"other","male","SPEEDING-POSTED LIMIT|IMPROPER LANE CHANGE -SIGNAL","citation","toyota","silver",1998
+"sa","2012-09-13","Thursday","18:29:00",18.4833333333333,29.413354,-98.4322416,25,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2007
+"sa","2013-03-15","Friday","11:42:00",11.7,29.4247962,-98.4816434,29,"black","male","SPEEDING-POSTED LIMIT","citation","other","black",2013
+"sa","2012-02-17","Friday","01:12:00",1.2,29.4368102,-98.5304928,36,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","chevrolet","other",2002
+"sa","2013-12-01","Sunday","12:52:00",12.8666666666667,29.3612368,-98.5221676,58,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2014
+"sa","2019-03-17","Sunday","09:40:00",9.66666666666667,29.4497692,-98.4227397,22,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","other",2011
+"sa","2019-06-18","Tuesday","09:35:00",9.58333333333333,29.3745609,-98.5143977,18,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","silver",2018
+"sa","2015-06-14","Sunday","01:54:00",1.9,29.508333,-98.1662711,29,"hispanic","male","IMPROPER LANE CHANGE|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",2004
+"sa","2012-06-07","Thursday","06:55:00",6.91666666666667,29.5201085,-98.4913626,41,"black","male","SPEEDING-POSTED LIMIT","citation","other","black",2000
+"sa","2017-09-30","Saturday","09:27:00",9.45,29.5650883,-98.5917656,23,"white","female","OBEDIENCE TO RAISED PAVEMENT MARKERS","citation","honda","other",2016
+"sa","2013-11-01","Friday","07:33:00",7.55,29.3528029,-98.5290482,31,"hispanic","male","IMPROPER RIGHT TURN AT INTERSECTION|OBEDIENCE TO RAISED PAVEMENT MARKERS","citation","other","other",1986
+"sa","2014-02-24","Monday","10:01:00",10.0166666666667,29.5934122,-98.2903213,47,"white","female","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2015-08-13","Thursday","09:38:00",9.63333333333333,29.5571249,-98.6149714,35,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","honda","other",2005
+"sa","2017-01-19","Thursday","15:19:00",15.3166666666667,29.5450894,-98.5781942,33,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","other","other",2012
+"sa","2018-05-08","Tuesday","12:02:00",12.0333333333333,29.4994522,-98.4227303,34,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","honda","other",2007
+"sa","2012-09-13","Thursday","15:04:00",15.0666666666667,29.3582712,-98.5593757,20,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","ford","other",2006
+"sa","2012-10-14","Sunday","02:37:00",2.61666666666667,29.4200344,-98.5325987,17,"hispanic","male","IMPROPER LIGHTS-TAIL LAMP","citation","chevrolet","other",1992
+"sa","2016-11-19","Saturday","13:58:00",13.9666666666667,29.6648696,-98.1680624,18,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","white",2004
+"sa","2016-07-25","Monday","16:46:00",16.7666666666667,29.4899878,-98.5606,63,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","other",2014
+"sa","2014-07-14","Monday","16:48:00",16.8,29.3742755,-98.5346612,26,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|NO VALID CERTIFICATE OF INSPECTION|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2003
+"sa","2018-09-24","Monday","08:26:00",8.43333333333333,29.6090281240001,-98.368306031,39,"black","male","PASSING ON RIGHT - IMPROVED SHOULDER","citation","toyota","silver",2016
+"sa","2018-10-11","Thursday","14:34:00",14.5666666666667,29.3874816,-98.4854223,35,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","other","gray",2017
+"sa","2015-05-20","Wednesday","16:09:00",16.15,29.3528029,-98.5290482,30,"hispanic","female","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","other",2005
+"sa","2012-09-05","Wednesday","23:30:00",23.5,29.3890595,-98.4325445,31,"black","male","DISREGARD STOP SIGN","citation","ford","silver",2008
+"sa","2012-11-27","Tuesday","16:43:00",16.7166666666667,29.3528029,-98.5290482,55,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2012
+"sa","2012-06-24","Sunday","11:48:00",11.8,29.4410493,-98.372414,26,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",2008
+"sa","2014-07-25","Friday","01:34:00",1.56666666666667,29.2960783,-98.5491669,27,"white","male","DISREGARD STOP SIGN","citation","honda","other",1994
+"sa","2013-02-06","Wednesday","17:14:00",17.2333333333333,29.4557048,-98.5520097,27,"white","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","white",1990
+"sa","2018-03-26","Monday","13:26:00",13.4333333333333,29.4040082,-98.6253236,64,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","toyota","silver",2016
+"sa","2017-06-24","Saturday","08:24:00",8.4,29.5717993,-98.5987377,20,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2016
+"sa","2015-05-06","Wednesday","19:54:00",19.9,29.2850399,-98.4727158,31,"black","male","SPEEDING-POSTED LIMIT","citation","other","silver",2014
+"sa","2015-03-27","Friday","19:17:00",19.2833333333333,29.387375,-98.555717,17,"hispanic","male","UNSAFE SPEED|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","other",2003
+"sa","2016-01-07","Thursday","12:58:00",12.9666666666667,29.4253709,-98.4980086,23,"white","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|NO BRAKE LIGHTS","citation","chevrolet","silver",2007
+"sa","2013-02-24","Sunday","03:10:00",3.16666666666667,29.5532354,-98.6667037,20,"white","male","SPEEDING-POSTED LIMIT|DRIVING WHILE LICENSE INVALID","citation","other","black",2013
+"sa","2018-08-14","Tuesday","10:31:00",10.5166666666667,29.4358741,-98.6451547,26,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|SPEEDING-POSTED LIMIT","citation","other","gray",2013
+"sa","2016-06-19","Sunday","15:03:00",15.05,29.5650883,-98.5917656,30,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2003
+"sa","2013-11-29","Friday","11:18:00",11.3,29.580199,-98.6562828,29,"hispanic","male","SPEEDING-POSTED LIMIT|IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","white",2008
+"sa","2014-03-21","Friday","01:06:00",1.1,29.4892511,-98.575154,26,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2017-11-01","Wednesday","15:39:00",15.65,29.5432405,-98.5506647,23,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","black",2015
+"sa","2013-02-19","Tuesday","11:53:00",11.8833333333333,29.3680665,-98.5108538,20,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2013
+"sa","2013-03-12","Tuesday","16:59:00",16.9833333333333,29.3252279,-98.598452,30,"hispanic","male","FAILURE TO DISPLAY VALID LICENSE PLATE|SPEEDING-POSTED LIMIT","citation","ford","white",2004
+"sa","2017-04-12","Wednesday","17:40:00",17.6666666666667,29.4468929,-98.6026194,51,"white","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","chevrolet","other",2003
+"sa","2014-07-21","Monday","13:52:00",13.8666666666667,29.3948125,-98.3884677,41,"white","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","ford","other",1998
+"sa","2012-12-19","Wednesday","09:14:00",9.23333333333333,29.4040082,-98.6253236,58,"white","male","IMPROPER LANE CHANGE -SIGNAL","citation","other","white",2010
+"sa","2014-05-30","Friday","14:19:00",14.3166666666667,29.4172184,-98.5023439,38,"hispanic","female","USE OF A WIRELESS COMMUNICATION DEVICE IN A SCHOOL CROSSING ZONE/SCHOOL PROPERTY","citation","ford","black",2005
+"sa","2018-05-09","Wednesday","15:44:00",15.7333333333333,29.601493,-98.3638699,51,"black","male","SPEEDING-POSTED LIMIT","citation","other","white",2018
+"sa","2018-05-10","Thursday","11:24:00",11.4,29.2723438,-98.4723471,29,"black","female","SPEEDING-POSTED LIMIT","citation","other","other",2011
+"sa","2016-06-27","Monday","19:21:00",19.35,29.4449519,-98.5226739,24,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",2015
+"sa","2017-02-02","Thursday","11:28:00",11.4666666666667,29.4389199,-98.3785121,21,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2011
+"sa","2013-12-15","Sunday","21:37:00",21.6166666666667,29.4169091,-98.4800119,65,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",1995
+"sa","2014-01-10","Friday","22:10:00",22.1666666666667,29.5579256,-98.472141,30,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2012
+"sa","2013-09-07","Saturday","17:50:00",17.8333333333333,29.413354,-98.4322416,30,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2007
+"sa","2017-10-23","Monday","14:47:00",14.7833333333333,29.3059445,-98.4729784,38,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","gray",2017
+"sa","2016-06-21","Tuesday","13:40:00",13.6666666666667,29.5255614,-98.4409726,17,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2005
+"sa","2018-05-09","Wednesday","21:36:00",21.6,29.5572487,-98.6272365,22,"white","female","USE OF WIRELESS COMMUNICATION DEVICE FORELECTRONIC MESSAGING","citation","other","silver",2012
+"sa","2015-09-23","Wednesday","16:55:00",16.9166666666667,29.4247962,-98.4816434,33,"white","male","FOLLOWING TOO CLOSELY|IMPROPER LANE CHANGE|SPEEDING-POSTED LIMIT","citation","honda","gray",2008
+"sa","2013-09-08","Sunday","12:06:00",12.1,29.5672046,-98.4131158,26,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2011
+"sa","2014-05-18","Sunday","17:43:00",17.7166666666667,29.395694,-98.3916336,67,"hispanic","male","FAIL TO CHANGE ADDRESS ON LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","white",1989
+"sa","2016-05-16","Monday","18:09:00",18.15,29.5650883,-98.5917656,64,"hispanic","female","SPEEDING-POSTED LIMIT","citation","honda","other",2015
+"sa","2016-08-26","Friday","08:11:00",8.18333333333333,29.4241219,-98.4936282,37,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING IN SCHOOL ZONE|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","other","white",2011
+"sa","2019-05-17","Friday","11:04:00",11.0666666666667,29.3528029,-98.5290482,21,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","other",2002
+"sa","2016-02-18","Thursday","11:42:00",11.7,29.415145,-98.5906487,18,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","black",2000
+"sa","2016-07-17","Sunday","15:36:00",15.6,29.450037,-98.4058801,42,"white","male","IMPROPER LANE CHANGE|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",2013
+"sa","2015-12-21","Monday","09:15:00",9.25,29.5150378,-98.4409672,29,"white","female","SPEEDING-POSTED LIMIT","citation","other","silver",2015
+"sa","2015-07-23","Thursday","11:20:00",11.3333333333333,29.5650883,-98.5917656,40,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","white",2001
+"sa","2017-01-13","Friday","11:10:00",11.1666666666667,29.3528029,-98.5290482,20,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","chevrolet","other",2004
+"sa","2014-02-24","Monday","17:11:00",17.1833333333333,29.528961,-98.5714558,19,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",2006
+"sa","2012-10-05","Friday","02:44:00",2.73333333333333,29.520108,-98.4920612,25,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","black",1998
+"sa","2015-09-05","Saturday","18:41:00",18.6833333333333,29.5432405,-98.5506647,22,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2015
+"sa","2012-07-01","Sunday","16:38:00",16.6333333333333,29.6088917,-98.6024168,49,"black","male","SPEEDING-POSTED LIMIT","citation","other","other",2012
+"sa","2013-11-22","Friday","10:11:00",10.1833333333333,29.450037,-98.4058801,38,"black","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2012
+"sa","2015-08-07","Friday","02:25:00",2.41666666666667,29.5213666,-98.5659593,23,"white","male","NO BRAKE LIGHTS|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","gray",2008
+"sa","2014-06-14","Saturday","17:19:00",17.3166666666667,29.4971079,-98.4265253,27,"white","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","other",2005
+"sa","2012-03-02","Friday","12:36:00",12.6,29.450037,-98.4058801,24,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2007
+"sa","2019-07-06","Saturday","08:58:00",8.96666666666667,29.5242893,-98.3922345,34,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","other",2016
+"sa","2013-11-02","Saturday","23:48:00",23.8,29.4789036,-98.5431876,18,"hispanic","male","IMPROPER LANE CHANGE","citation","other","black",2003
+"sa","2015-09-22","Tuesday","15:05:00",15.0833333333333,29.370574,-98.5340334,65,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","other","other",2013
+"sa","2013-01-06","Sunday","22:20:00",22.3333333333333,29.6712566,-98.158275,26,"black","female","SPEEDING-POSTED LIMIT","citation","other","other",2007
+"sa","2013-10-26","Saturday","20:06:00",20.1,29.3528029,-98.5290482,61,"white","female","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2005
+"sa","2016-06-19","Sunday","04:05:00",4.08333333333333,29.4526658,-98.5240104,26,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","honda","white",2004
+"sa","2016-11-03","Thursday","12:30:00",12.5,29.3638748,-98.5214317,20,"white","female","SPEEDING-POSTED LIMIT","citation","toyota","silver",2008
+"sa","2016-07-28","Thursday","18:04:00",18.0666666666667,29.5018809,-98.3985141,55,"black","female","SPEEDING-POSTED LIMIT","citation","other","black",2015
+"sa","2012-10-31","Wednesday","06:49:00",6.81666666666667,29.5650883,-98.5917656,66,"white","male","FAIL TO YIELD RIGHT OF WAY TO EMERGENCYVEHICLE (9-75)","citation","chevrolet","other",2008
+"sa","2013-12-09","Monday","04:25:00",4.41666666666667,29.4423675,-98.5526303,20,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DISREGARD RED LIGHT","citation","other","black",2005
+"sa","2015-08-14","Friday","16:15:00",16.25,29.3528029,-98.5290482,48,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","chevrolet","other",2005
+"sa","2014-11-23","Sunday","17:10:00",17.1666666666667,29.4247962,-98.4816434,39,"black","male","SPEEDING-POSTED LIMIT","citation","other","black",2012
+"sa","2014-10-30","Thursday","08:37:00",8.61666666666667,29.5027616,-98.5069881,18,"white","male","SPEEDING IN SCHOOL ZONE","citation","honda","black",1999
+"sa","2016-12-13","Tuesday","08:01:00",8.01666666666667,29.4276638,-98.5269847,44,"hispanic","male","OPERATING ACROSS PRIVATE PROPERTY (RIGHTOR LEFT TURN)","citation","other","gray",2008
+"sa","2017-04-18","Tuesday","06:44:00",6.73333333333333,29.2634729,-98.5805677,46,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2014
+"sa","2019-09-02","Monday","23:41:00",23.6833333333333,29.5650883,-98.5917656,24,"white","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","black",2018
+"sa","2014-10-19","Sunday","09:47:00",9.78333333333333,29.4745506,-98.6002626,22,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",2008
+"sa","2014-04-02","Wednesday","11:21:00",11.35,29.508333,-98.1662711,58,"white","male","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","gray",2008
+"sa","2015-05-25","Monday","13:13:00",13.2166666666667,29.438232,-98.3807313,27,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","gray",2014
+"sa","2013-09-03","Tuesday","13:13:00",13.2166666666667,29.62358,-98.4615753,24,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2007
+"sa","2016-02-10","Wednesday","16:09:00",16.15,29.3456125,-98.5279576,27,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DISREGARD STOP SIGN","citation","other","black",1997
+"sa","2012-10-19","Friday","15:48:00",15.8,29.4636657,-98.536628,66,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","honda","other",1999
+"sa","2017-07-29","Saturday","13:10:00",13.1666666666667,29.5650883,-98.5917656,46,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","white",2015
+"sa","2012-02-13","Monday","12:27:00",12.45,29.5201085,-98.4913626,20,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2004
+"sa","2012-04-17","Tuesday","08:32:00",8.53333333333333,29.5247121,-98.69004,25,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2010
+"sa","2013-09-11","Wednesday","13:34:00",13.5666666666667,29.5201085,-98.4913626,28,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2003
+"sa","2017-05-18","Thursday","13:52:00",13.8666666666667,29.41021,-98.650799,42,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","other",2012
+"sa","2019-03-06","Wednesday","14:00:00",14,29.5432405,-98.5506647,19,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","gray",2004
+"sa","2015-03-11","Wednesday","00:24:00",0.4,29.458313,-98.627177,32,"hispanic","male","SPEEDING-POSTED LIMIT|IMPROPER RIGHT OR LEFT TURN - SIGNAL|WINDSHIELD OBSTRUCTED-MATERIAL OR OBJECTAFFIXED","citation","other","other",2006
+"sa","2015-05-19","Tuesday","15:58:00",15.9666666666667,29.2883017,-98.4752303,20,"hispanic","male","OBEDIENCE TO RAISED PAVEMENT MARKERS|IMPROPER LANE CHANGE|SPEEDING-POSTED LIMIT","citation","ford","other",2012
+"sa","2015-12-13","Sunday","15:37:00",15.6166666666667,29.43026,-98.493655,20,"white","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",2001
+"sa","2016-02-03","Wednesday","02:33:00",2.55,29.4248363,-98.5011962,37,"white","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DISREGARD RED LIGHT","citation","other","other",2000
+"sa","2013-03-13","Wednesday","01:20:00",1.33333333333333,29.3995023,-98.4523919,58,"black","male","POSSESSION OF OPEN CONTAINER","citation","toyota","other",1993
+"sa","2015-09-29","Tuesday","11:04:00",11.0666666666667,29.4740871,-98.5445686,81,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","other",2004
+"sa","2013-02-06","Wednesday","19:50:00",19.8333333333333,29.35776,-98.524687,45,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2010
+"sa","2019-01-19","Saturday","09:58:00",9.96666666666667,29.610086,-98.4195398,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2018
+"sa","2019-05-29","Wednesday","09:03:00",9.05,29.5396322,-98.5518802,34,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2014
+"sa","2019-05-14","Tuesday","22:31:00",22.5166666666667,29.3254828,-98.5267112,21,"white","male","DISREGARD STOP SIGN","citation","ford","black",2001
+"sa","2013-03-18","Monday","13:06:00",13.1,29.4962833,-98.4917131,45,"other","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2003
+"sa","2012-04-13","Friday","07:49:00",7.81666666666667,29.62358,-98.4615753,33,"hispanic","male","FAILURE TO DISPLAY VALID LICENSE PLATE|FOLLOWING TOO CLOSELY","citation","honda","white",1999
+"sa","2015-12-20","Sunday","10:00:00",10,29.520108,-98.4920612,37,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","black",2014
+"sa","2016-05-26","Thursday","21:49:00",21.8166666666667,29.5878119,-98.5142008,22,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2000
+"sa","2014-05-01","Thursday","08:16:00",8.26666666666667,29.4591687,-98.5851541,27,"hispanic","female","FAIL TO CHANGE ADDRESS ON LICENSE|SPEEDING-POSTED LIMIT","citation","other","other",2008
+"sa","2018-08-30","Thursday","15:37:00",15.6166666666667,29.5675904,-98.5799712,81,"white","female","SPEEDING IN SCHOOL ZONE","citation","other","silver",2003
+"sa","2019-11-07","Thursday","15:25:00",15.4166666666667,29.3723518470001,-98.501865584,44,"white","female","POSSESSION OF OPEN CONTAINER","arrest","ford","white",1994
+"sa","2019-02-14","Thursday","13:21:00",13.35,29.5672046,-98.4131158,52,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2007
+"sa","2015-01-19","Monday","17:29:00",17.4833333333333,29.374907,-98.4292205,18,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|SPEEDING-POSTED LIMIT","citation","other","silver",2006
+"sa","2019-01-24","Thursday","07:05:00",7.08333333333333,29.3723729,-98.4804566,28,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","honda","white",2017
+"sa","2014-07-22","Tuesday","19:26:00",19.4333333333333,29.450037,-98.4058801,25,"white","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2000
+"sa","2014-10-07","Tuesday","10:23:00",10.3833333333333,29.4742113,-98.6963234,25,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2014
+"sa","2012-02-15","Wednesday","13:14:00",13.2333333333333,29.522276,-98.4460132,36,"white","female","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2004
+"sa","2016-11-24","Thursday","14:30:00",14.5,29.4994132,-98.5776285,18,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2009
+"sa","2017-06-21","Wednesday","17:05:00",17.0833333333333,29.358988,-98.561479,19,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","other",2010
+"sa","2013-09-21","Saturday","17:55:00",17.9166666666667,29.5637441,-98.486703,45,"white","male","IMPROPER RIGHT OR LEFT TURN - SIGNAL|DISREGARD STOP SIGN","citation","other","gray",2002
+"sa","2016-08-20","Saturday","15:07:00",15.1166666666667,29.5848319,-98.4505293,20,"white","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","other",2009
+"sa","2013-09-11","Wednesday","08:04:00",8.06666666666667,29.3713963,-98.5340469,71,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","honda","other",2005
+"sa","2013-05-13","Monday","10:34:00",10.5666666666667,29.520108,-98.4920612,29,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT CORRECTIVE LENSES","citation","ford","silver",2003
+"sa","2013-10-03","Thursday","16:38:00",16.6333333333333,29.616243,-98.478327,50,"white","female","SPEEDING-POSTED LIMIT","citation","other","white",2013
+"sa","2014-11-14","Friday","15:41:00",15.6833333333333,29.3966493,-98.5151096,26,"hispanic","male","SPEEDING IN SCHOOL ZONE|UNSAFE SPEED|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","black",1993
+"sa","2013-05-02","Thursday","16:28:00",16.4666666666667,29.5175251,-98.5340886,49,"white","female","SPEEDING IN SCHOOL ZONE","citation","honda","silver",2003
+"sa","2014-08-03","Sunday","07:09:00",7.15,29.413354,-98.4322416,20,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2009
+"sa","2012-10-21","Sunday","01:51:00",1.85,29.3568149,-98.5436218,18,"white","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","other",2011
+"sa","2017-12-12","Tuesday","12:21:00",12.35,29.4787098,-98.4334844,77,"black","female","SPEEDING-POSTED LIMIT","citation","other","black",2006
+"sa","2015-07-20","Monday","21:10:00",21.1666666666667,29.6803551,-98.1466172,18,"white","female","SPEEDING-POSTED LIMIT","citation","honda","black",2012
+"sa","2018-03-01","Thursday","06:00:00",6,29.5156904,-98.4307947,27,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",1997
+"sa","2013-01-26","Saturday","23:35:00",23.5833333333333,29.4239763,-98.4890325,22,"white","male","IMPROPER RIGHT OR LEFT TURN - SIGNAL|IMPROPER LANE CHANGE -SIGNAL|WRONG WAY ONE-WAY STREET","citation","ford","black",2006
+"sa","2017-01-24","Tuesday","15:48:00",15.8,29.4666351,-98.5673004,30,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING IN SCHOOL ZONE","citation","other","other",2007
+"sa","2016-11-15","Tuesday","13:32:00",13.5333333333333,29.6088917,-98.6024168,50,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","black",2008
+"sa","2013-10-07","Monday","19:01:00",19.0166666666667,29.4847852,-98.4303333,40,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2007
+"sa","2012-11-02","Friday","21:19:00",21.3166666666667,29.450037,-98.4058801,33,"hispanic","male","SPEEDING-POSTED LIMIT|FOLLOWING TOO CLOSELY|IMPROPER LANE CHANGE -SIGNAL","citation","other","gray",2005
+"sa","2014-12-13","Saturday","08:57:00",8.95,29.4477524,-98.5518817,27,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","silver",2001
+"sa","2015-10-19","Monday","02:25:00",2.41666666666667,29.4915808,-98.5563818,26,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DRIVING WHILE LICENSE INVALID","citation","other","other",2003
+"sa","2012-10-15","Monday","07:56:00",7.93333333333333,29.5099117,-98.3819783,31,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","other","white",2011
+"sa","2019-02-27","Wednesday","14:00:00",14,29.4427962,-98.4993147,30,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","ford","white",2011
+"sa","2013-03-09","Saturday","16:01:00",16.0166666666667,29.4382722,-98.4880333,21,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","other",2006
+"sa","2014-05-06","Tuesday","14:53:00",14.8833333333333,29.39878,-98.549081,18,"white","male","SPEEDING IN SCHOOL ZONE","citation","other","silver",1999
+"sa","2012-05-02","Wednesday","15:58:00",15.9666666666667,29.4383616,-98.4488846,40,"hispanic","male","DRIVING ON LEFT - IMPROVED SHOULDER|SPEEDING-POSTED LIMIT","citation","other","other",2005
+"sa","2019-05-29","Wednesday","09:18:00",9.3,29.6088917,-98.6024168,28,"white","male","SPEEDING-POSTED LIMIT|FOLLOWING TOO CLOSELY","citation","other","gray",2018
+"sa","2013-09-04","Wednesday","09:22:00",9.36666666666667,29.4063982,-98.6179241,19,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING-POSTED LIMIT","citation","other","silver",2005
+"sa","2013-10-06","Sunday","16:42:00",16.7,29.488624,-98.4007513,26,"asian/pacific islander","female","SPEEDING-POSTED LIMIT","citation","other","gray",2013
+"sa","2016-07-06","Wednesday","10:59:00",10.9833333333333,29.5155568,-98.436151,27,"white","male","SPEEDING-POSTED LIMIT","citation","ford","white",2015
+"sa","2019-11-18","Monday","14:43:00",14.7166666666667,29.3528029,-98.5290482,27,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","chevrolet","silver",2014
+"sa","2012-06-27","Wednesday","21:07:00",21.1166666666667,29.645752,-98.4679034,31,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2002
+"sa","2013-05-18","Saturday","17:36:00",17.6,29.491565,-98.3847295,17,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2004
+"sa","2018-09-20","Thursday","07:08:00",7.13333333333333,29.6009489,-98.3654914,34,"white","female","IMPROPER OVERTAKING ON RIGHT-GOING OFF ROADWAY","citation","other","silver",2010
+"sa","2015-02-26","Thursday","10:57:00",10.95,29.3528029,-98.5290482,46,"white","male","OBEDIENCE TO RAISED PAVEMENT MARKERS","citation","other","other",2015
+"sa","2016-06-04","Saturday","22:24:00",22.4,29.4842009,-98.594546,27,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2010
+"sa","2015-08-20","Thursday","17:52:00",17.8666666666667,29.518848,-98.473799,30,"hispanic","male","SPEEDING-POSTED LIMIT|IMPROPER LANE CHANGE -SIGNAL|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",2001
+"sa","2019-09-01","Sunday","08:43:00",8.71666666666667,29.5513567,-98.430711,36,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","silver",2007
+"sa","2016-05-05","Thursday","08:38:00",8.63333333333333,29.4784288,-98.6121968,49,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","gray",2004
+"sa","2012-06-16","Saturday","17:11:00",17.1833333333333,29.62358,-98.4615753,41,"white","female","SPEEDING-POSTED LIMIT","citation","other","gray",2012
+"sa","2018-09-24","Monday","10:05:00",10.0833333333333,29.4448964,-98.3595115,24,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2004
+"sa","2015-01-06","Tuesday","16:30:00",16.5,29.2702993,-98.4715111,22,"black","female","SPEEDING-POSTED LIMIT","citation","other","white",2008
+"sa","2017-04-05","Wednesday","06:58:00",6.96666666666667,29.3962227,-98.4955798,18,"white","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","silver",2002
+"sa","2019-03-19","Tuesday","12:21:00",12.35,29.520108,-98.4920612,20,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2014
+"sa","2015-05-17","Sunday","20:32:00",20.5333333333333,29.5201085,-98.4913626,55,"black","male","SPEEDING-POSTED LIMIT","citation","other","silver",2006
+"sa","2018-02-09","Friday","14:50:00",14.8333333333333,29.4842472,-98.507841,35,"hispanic","female","DRIVING WHILE LICENSE INVALID","citation","chevrolet","white",2005
+"sa","2014-10-27","Monday","12:37:00",12.6166666666667,29.6647002,-98.1682921,24,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",1995
+"sa","2013-01-12","Saturday","13:29:00",13.4833333333333,29.450037,-98.4058801,25,"white","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2012
+"sa","2016-10-24","Monday","17:43:00",17.7166666666667,29.3857569,-98.4306186,33,"white","male","DISREGARD STOP SIGN|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","white",2003
+"sa","2013-05-18","Saturday","23:57:00",23.95,29.4282387,-98.5694447,50,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","other",1997
+"sa","2013-09-16","Monday","03:03:00",3.05,29.319733,-98.5228328,28,"other","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","black",2006
+"sa","2018-03-07","Wednesday","09:44:00",9.73333333333333,29.3562519,-98.5266003,40,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","honda","black",2008
+"sa","2018-07-24","Tuesday","14:09:00",14.15,29.4899878,-98.5606,75,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2009
+"sa","2012-01-06","Friday","03:40:00",3.66666666666667,29.62358,-98.4615753,22,"black","female","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|UNSAFE SPEED","citation","chevrolet","black",2008
+"sa","2014-03-18","Tuesday","15:42:00",15.7,29.3528029,-98.5290482,43,"black","male","DISREGARD RED LIGHT|DRIVING WHILE LICENSE INVALID","citation","other","other",2008
+"sa","2015-08-31","Monday","16:47:00",16.7833333333333,29.566545,-98.5822834,43,"hispanic","male","IMPROPER LANE CHANGE","citation","honda","white",2012
+"sa","2020-05-21","Thursday","07:54:00",7.9,29.6449677,-98.4245752,37,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","gray",2012
+"sa","2017-08-02","Wednesday","02:06:00",2.1,29.4437525,-98.5227981,37,"hispanic","female","DRIVING WHILE LICENSE INVALID|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","white",1998
+"sa","2015-01-29","Thursday","20:59:00",20.9833333333333,29.3985922,-98.426799,23,"white","female","SPEEDING-POSTED LIMIT","citation","other","gray",2005
+"sa","2017-04-07","Friday","08:27:00",8.45,29.4666351,-98.5673004,21,"hispanic","female","SPEEDING IN SCHOOL ZONE|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","other","other",2012
+"sa","2017-05-16","Tuesday","09:37:00",9.61666666666667,29.5919092,-98.5865877,62,"black","male","SPEEDING-POSTED LIMIT","citation","other","black",2017
+"sa","2014-08-26","Tuesday","14:41:00",14.6833333333333,29.4907321,-98.5349856,39,"white","male","SPEEDING IN SCHOOL ZONE","citation","other","other",2014
+"sa","2015-07-14","Tuesday","14:44:00",14.7333333333333,29.5328407,-98.5657045,35,"black","male","FAIL TO CHANGE ADDRESS ON LICENSE|NO BRAKE LIGHTS|8-16 YEARS OF AGE-IMPROPER USE OR FAILURE TO USE SAFETY BELT","citation","ford","other",2001
+"sa","2017-08-05","Saturday","14:10:00",14.1666666666667,29.3528029,-98.5290482,31,"hispanic","male","DISREGARD STOP SIGN","citation","other","white",1999
+"sa","2013-09-22","Sunday","17:38:00",17.6333333333333,29.429793,-98.5255157,30,"hispanic","male","DRIVING WHILE LICENSE INVALID|NO VALID CERTIFICATE OF INSPECTION|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",2000
+"sa","2012-10-03","Wednesday","19:34:00",19.5666666666667,29.3528029,-98.5290482,72,"black","female","FAIL TO YIELD RIGHT OF WAY TO CONTROLLEDACCESS HIGHWAY (9-73A)","citation","other","black",2013
+"sa","2013-08-28","Wednesday","12:39:00",12.65,29.413354,-98.4322416,40,"hispanic","male","LANE USE RESTRICTIONS - TRUCKS","citation","other","other",1999
+"sa","2012-07-30","Monday","14:07:00",14.1166666666667,29.4874951,-98.560553,20,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","other",2009
+"sa","2020-05-10","Sunday","07:11:00",7.18333333333333,29.3528029,-98.5290482,22,"white","male","SPEEDING-POSTED LIMIT","citation","other","gray",2016
+"sa","2016-01-29","Friday","12:56:00",12.9333333333333,29.6017537,-98.4050082,25,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2012
+"sa","2013-12-24","Tuesday","08:07:00",8.11666666666667,29.4904861,-98.5225278,22,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",1991
+"sa","2013-01-08","Tuesday","15:32:00",15.5333333333333,29.4610725,-98.3097869,30,"white","male","UNSAFE SPEED","citation","other","other",2008
+"sa","2013-06-19","Wednesday","19:25:00",19.4166666666667,29.5142899,-98.46686,28,"white","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DISREGARD STOP SIGN","citation","ford","gray",1999
+"sa","2013-10-11","Friday","22:30:00",22.5,29.5243312,-98.4983481,22,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|IMPROPER LIGHTS-NO LIGHTS","citation","other","other",2003
+"sa","2017-10-16","Monday","14:26:00",14.4333333333333,29.3528029,-98.5290482,22,"black","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","black",2017
+"sa","2019-08-28","Wednesday","12:13:00",12.2166666666667,29.5650883,-98.5917656,85,"white","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2017
+"sa","2020-06-04","Thursday","11:40:00",11.6666666666667,29.6014004,-98.4405184,25,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2002
+"sa","2015-05-11","Monday","20:30:00",20.5,29.6648696,-98.1680624,19,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2015
+"sa","2017-10-25","Wednesday","18:34:00",18.5666666666667,29.4984724,-98.499272,24,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",1996
+"sa","2013-12-13","Friday","13:18:00",13.3,29.362938,-98.4447572,43,"hispanic","male","PASSING AUTHORIZED EMERGENCY VEHICLE","citation","other","other",2013
+"sa","2012-11-13","Tuesday","01:34:00",1.56666666666667,29.3673726,-98.4952088,19,"white","male","SAFETY SEAT SYSTEM - 7 YEARS AND UNDER|SPEEDING-POSTED LIMIT","citation","other","white",2013
+"sa","2014-03-31","Monday","12:26:00",12.4333333333333,29.5571249,-98.6149714,19,"white","female","SPEEDING-POSTED LIMIT","citation","other","black",2010
+"sa","2012-06-02","Saturday","11:03:00",11.05,29.41021,-98.650799,36,"white","female","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2008
+"sa","2019-04-08","Monday","11:39:00",11.65,29.5204208,-98.4897358,40,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2018
+"sa","2015-05-27","Wednesday","23:14:00",23.2333333333333,29.508333,-98.1662711,46,"white","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","ford","other",2005
+"sa","2012-04-13","Friday","22:59:00",22.9833333333333,29.5191673,-98.4903966,24,"hispanic","male","FAIL TO YIELD RIGHT OF WAY TO EMERGENCYVEHICLE (9-75)|FOLLOWING TOO CLOSELY","citation","other","other",2008
+"sa","2014-10-16","Thursday","16:13:00",16.2166666666667,29.5164144,-98.4513694,33,"white","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",2014
+"sa","2014-09-25","Thursday","14:13:00",14.2166666666667,29.5389992,-98.5064828,72,"white","male","SPEEDING IN SCHOOL ZONE","citation","other","white",2014
+"sa","2018-05-07","Monday","06:57:00",6.95,29.5871726,-98.3775035,31,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2014
+"sa","2013-02-04","Monday","00:44:00",0.733333333333333,29.403345,-98.628127,45,"white","male","POSSESSION OF OPEN CONTAINER|IMPROPER LANE CHANGE -SIGNAL|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","other",2004
+"sa","2018-12-11","Tuesday","10:58:00",10.9666666666667,29.5650883,-98.5917656,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2001
+"sa","2014-07-20","Sunday","16:53:00",16.8833333333333,29.4178277,-98.6506271,39,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","ford","silver",2007
+"sa","2016-06-03","Friday","11:13:00",11.2166666666667,29.413354,-98.4322416,38,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2014
+"sa","2013-01-28","Monday","01:00:00",1,29.522654,-98.3991105,33,"hispanic","male","DISREGARD STOP SIGN|IMPROPER RIGHT OR LEFT TURN - SIGNAL|DRIVING WHILE LICENSE INVALID","citation","ford","other",1997
+"sa","2017-06-20","Tuesday","13:48:00",13.8,29.6088917,-98.6024168,52,"other","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","toyota","black",2002
+"sa","2013-04-16","Tuesday","11:05:00",11.0833333333333,29.490733,-98.5520651,19,"black","male","DISREGARD RED LIGHT","citation","other","other",2006
+"sa","2012-06-10","Sunday","21:31:00",21.5166666666667,29.5201085,-98.4913626,28,"black","male","SPEEDING-POSTED LIMIT","citation","other","other",2009
+"sa","2017-05-10","Wednesday","08:08:00",8.13333333333333,29.3481583,-98.503426,62,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","chevrolet","other",2000
+"sa","2012-03-24","Saturday","03:24:00",3.4,29.4969928,-98.5624875,18,"white","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DISREGARD STOP SIGN","citation","ford","white",2009
+"sa","2017-03-09","Thursday","06:12:00",6.2,29.508333,-98.1662711,72,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","silver",2010
+"sa","2017-08-18","Friday","05:56:00",5.93333333333333,29.3384524,-98.552372,26,"other","male","SPEEDING-POSTED LIMIT","citation","ford","white",2008
+"sa","2013-09-29","Sunday","10:12:00",10.2,29.5169482,-98.5918478,36,"white","male","SPEEDING-POSTED LIMIT","citation","other","gray",2012
+"sa","2012-10-29","Monday","09:50:00",9.83333333333333,29.450037,-98.4058801,33,"black","female","SPEEDING-POSTED LIMIT","citation","other","other",2011
+"sa","2013-07-31","Wednesday","09:19:00",9.31666666666667,29.4934207,-98.4001767,22,"white","female","SPEEDING-POSTED LIMIT|IMPROPER LANE CHANGE","citation","other","white",2007
+"sa","2019-06-06","Thursday","13:16:00",13.2666666666667,29.4361203,-98.6206296,31,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","other",2016
+"sa","2019-08-04","Sunday","07:58:00",7.96666666666667,29.5571249,-98.6149714,39,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","black",2008
+"sa","2015-10-27","Tuesday","12:03:00",12.05,29.4459937,-98.5339941,53,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","white",2014
+"sa","2020-03-10","Tuesday","10:10:00",10.1666666666667,29.4590606,-98.6914779,19,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2012
+"sa","2014-12-23","Tuesday","21:08:00",21.1333333333333,29.449293,-98.573475,47,"hispanic","male","DRIVING WHILE LICENSE INVALID","citation","other","other",2001
+"sa","2018-08-23","Thursday","21:49:00",21.8166666666667,29.4595,-98.6253,43,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","black",2005
+"sa","2016-11-03","Thursday","11:08:00",11.1333333333333,29.5650883,-98.5917656,36,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","ford","black",2009
+"sa","2012-12-01","Saturday","20:30:00",20.5,29.62358,-98.4615753,22,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2012
+"sa","2017-12-01","Friday","08:55:00",8.91666666666667,29.5650883,-98.5917656,25,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2000
+"sa","2012-04-09","Monday","08:42:00",8.7,29.400852,-98.4827116,57,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","ford","black",1999
+"sa","2013-06-18","Tuesday","12:36:00",12.6,29.5247121,-98.69004,37,"black","male","DRIVING WHILE LICENSE INVALID|SPEEDING-POSTED LIMIT","citation","other","silver",2006
+"sa","2017-09-21","Thursday","13:56:00",13.9333333333333,29.5247121,-98.69004,55,"white","female","SPEEDING-POSTED LIMIT","citation","honda","white",2014
+"sa","2016-08-02","Tuesday","12:13:00",12.2166666666667,29.3274235,-98.4207342,55,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2012
+"sa","2014-08-30","Saturday","12:07:00",12.1166666666667,29.4612437,-98.63334,48,"white","female","SPEEDING-POSTED LIMIT","citation","honda","other",2012
+"sa","2017-10-18","Wednesday","07:16:00",7.26666666666667,29.3506494,-98.5091249,62,"other","male","SPEEDING-POSTED LIMIT","citation","other","other",2000
+"sa","2014-04-02","Wednesday","14:00:00",14,29.3923617,-98.575369,37,"white","female","SPEEDING-POSTED LIMIT","citation","toyota","other",2005
+"sa","2020-03-14","Saturday","11:02:00",11.0333333333333,29.450037,-98.4058801,23,"white","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2014
+"sa","2017-03-19","Sunday","23:19:00",23.3166666666667,29.3571128,-98.5461904,18,"hispanic","male","DISREGARD RED LIGHT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","honda","other",1993
+"sa","2014-03-06","Thursday","11:48:00",11.8,29.3954987,-98.5159411,37,"black","female","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2004
+"sa","2017-07-25","Tuesday","13:50:00",13.8333333333333,29.5156904,-98.4307947,35,"black","male","SPEEDING-POSTED LIMIT","citation","other","other",2003
+"sa","2014-01-27","Monday","00:26:00",0.433333333333333,29.4131654,-98.4319418,53,"white","male","FAIL TO STOP AT RED LIGHT BEFORE RIGHT TURN","citation","other","white",2006
+"sa","2012-12-18","Tuesday","12:18:00",12.3,29.434151,-98.5481401,44,"other","male","SPEEDING-POSTED LIMIT|UNSAFE SPEED|OPERATING WITHOUT MOTORCYCLE OPERATOR'SLICENSE","citation","other","black",2008
+"sa","2015-08-25","Tuesday","12:50:00",12.8333333333333,29.6712566,-98.158275,23,"hispanic","male","SPEEDING - CONSTRUCTION ZONE","citation","other","other",2015
+"sa","2015-08-31","Monday","13:27:00",13.45,29.5446348,-98.5076637,49,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",2000
+"sa","2012-05-22","Tuesday","04:20:00",4.33333333333333,29.5116856,-98.5704211,31,"white","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",1999
+"sa","2017-09-12","Tuesday","16:03:00",16.05,29.366319,-98.441701,24,"black","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","other",2003
+"sa","2013-07-03","Wednesday","09:11:00",9.18333333333333,29.417313,-98.5091432,36,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2008
+"sa","2012-11-15","Thursday","05:03:00",5.05,29.6012979,-98.4692856,48,"white","female","SPEEDING-POSTED LIMIT","citation","other","other",2006
+"sa","2013-09-22","Sunday","19:21:00",19.35,29.5650883,-98.5917656,26,"other","male","SPEEDING-POSTED LIMIT","citation","ford","other",2009
+"sa","2019-05-22","Wednesday","08:17:00",8.28333333333333,29.5735504940001,-98.46981352,45,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","other","white",2018
+"sa","2016-06-18","Saturday","20:21:00",20.35,29.5650883,-98.5917656,55,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",2015
+"sa","2012-11-16","Friday","19:15:00",19.25,29.427077,-98.5270615,57,"other","male","IMPROPER RIGHT OR LEFT TURN - SIGNAL","citation","other","silver",1998
+"sa","2019-02-01","Friday","09:46:00",9.76666666666667,29.5434215,-98.5823802,22,"white","male","DISREGARD OTHER TRAFFIC SIGNS & SIGNALS","citation","other","gray",2015
+"sa","2019-12-11","Wednesday","13:39:00",13.65,29.6196835,-98.5116444,64,"black","female","SPEEDING-POSTED LIMIT","citation","other","silver",2012
+"sa","2019-05-20","Monday","16:31:00",16.5166666666667,29.466126334,-98.542383052,37,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",2018
+"sa","2012-12-13","Thursday","14:11:00",14.1833333333333,29.4241219,-98.4936282,19,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING-POSTED LIMIT","citation","chevrolet","other",2012
+"sa","2016-01-13","Wednesday","14:03:00",14.05,29.430985,-98.526581,32,"black","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",2005
+"sa","2013-06-18","Tuesday","10:25:00",10.4166666666667,29.533965,-98.663394,26,"hispanic","male","SPEEDING-POSTED LIMIT|FOLLOWING TOO CLOSELY","citation","toyota","other",2013
+"sa","2014-09-29","Monday","15:44:00",15.7333333333333,29.4169091,-98.4800119,31,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","black",2013
+"sa","2017-08-04","Friday","13:33:00",13.55,29.6648696,-98.1680624,19,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2004
+"sa","2016-10-09","Sunday","01:01:00",1.01666666666667,29.4291143,-98.5373183,18,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",1998
+"sa","2012-12-21","Friday","08:18:00",8.3,29.3503526,-98.5335994,36,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2012
+"sa","2012-08-15","Wednesday","17:52:00",17.8666666666667,29.4241219,-98.4936282,33,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2006
+"sa","2013-10-05","Saturday","17:29:00",17.4833333333333,29.6712566,-98.158275,30,"white","male","SAFETY SEAT SYSTEM - 7 YEARS AND UNDER|SAFETY SEAT SYSTEM - 7 YEARS AND UNDER|8-16 YEARS OF AGE-IMPROPER USE OR FAILURE TO USE SAFETY BELT","citation","ford","white",1994
+"sa","2019-04-09","Tuesday","08:32:00",8.53333333333333,29.4903734,-98.4835843,36,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","ford","black",2004
+"sa","2018-05-24","Thursday","13:12:00",13.2,29.450037,-98.4058801,18,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","black",2019
+"sa","2013-06-23","Sunday","18:30:00",18.5,29.450037,-98.4058801,30,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|PASSING AUTHORIZED EMERGENCY VEHICLE","citation","other","black",2009
+"sa","2019-12-01","Sunday","19:46:00",19.7666666666667,29.4458901720001,-98.670200209,38,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",2011
+"sa","2014-05-16","Friday","02:06:00",2.1,29.417841,-98.669947,37,"white","female","DISREGARD RED LIGHT","citation","ford","black",2003
+"sa","2012-05-27","Sunday","12:45:00",12.75,29.362938,-98.4447572,30,"hispanic","male","SPEEDING-POSTED LIMIT|NO VALID CERTIFICATE OF INSPECTION","citation","chevrolet","black",2004
+"sa","2019-12-11","Wednesday","11:01:00",11.0166666666667,29.4063982,-98.6179241,43,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","white",2012
+"sa","2012-07-28","Saturday","10:12:00",10.2,29.3207222,-98.5038467,22,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","gray",2003
+"sa","2018-10-06","Saturday","22:06:00",22.1,29.4229634,-98.4876611,24,"white","male","POSSESSION OF OPEN CONTAINER","citation","other","other",2008
+"sa","2017-10-01","Sunday","07:26:00",7.43333333333333,29.6648696,-98.1680624,41,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","toyota","gray",2017
+"sa","2013-02-12","Tuesday","11:25:00",11.4166666666667,29.4368345,-98.6617213,79,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2007
+"sa","2018-09-22","Saturday","14:08:00",14.1333333333333,29.5650883,-98.5917656,27,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2013
+"sa","2018-03-15","Thursday","17:17:00",17.2833333333333,29.4522211,-98.4166905,37,"white","male","SPEEDING-POSTED LIMIT","citation","ford","white",2008
+"sa","2015-09-04","Friday","23:53:00",23.8833333333333,29.4378536,-98.381957,24,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",2014
+"sa","2013-05-07","Tuesday","20:33:00",20.55,29.5201085,-98.4913626,34,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2009
+"sa","2014-04-01","Tuesday","11:53:00",11.8833333333333,29.4446629,-98.4757153,21,"white","male","IMPROPER LIGHTS-NO LIGHTS|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","ford","gray",2008
+"sa","2018-06-28","Thursday","01:54:00",1.9,29.4255412,-98.4882356,24,"white","female","SAFETY SEAT SYSTEM - 7 YEARS AND UNDER|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2010
+"sa","2013-10-07","Monday","21:34:00",21.5666666666667,29.3528029,-98.5290482,28,"hispanic","male","SPEEDING-POSTED LIMIT|FAIL TO CHANGE ADDRESS ON LICENSE","citation","other","gray",2010
+"sa","2015-02-17","Tuesday","09:21:00",9.35,29.3823745,-98.5122472,48,"black","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",2009
+"sa","2013-10-07","Monday","16:11:00",16.1833333333333,29.4800227,-98.5839561,39,"black","male","DISREGARD RED LIGHT","citation","other","white",2013
+"sa","2016-12-08","Thursday","00:30:00",0.5,29.4889752,-98.5673348,26,"white","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2014
+"sa","2018-08-21","Tuesday","15:45:00",15.75,29.4078955,-98.6486681,38,"white","male","SPEEDING - CONSTRUCTION ZONE|IMPROPER LANE CHANGE","citation","ford","black",2018
+"sa","2013-02-27","Wednesday","11:27:00",11.45,29.5919092,-98.5865877,53,"white","male","SPEEDING-POSTED LIMIT|IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","ford","other",2003
+"sa","2018-02-18","Sunday","10:12:00",10.2,29.5934122,-98.2903213,41,"hispanic","male","SPEEDING-POSTED LIMIT","citation","honda","white",2004
+"sa","2012-06-06","Wednesday","12:11:00",12.1833333333333,29.62358,-98.4615753,18,"white","female","SPEEDING-POSTED LIMIT","citation","toyota","other",2009
+"sa","2013-05-12","Sunday","18:21:00",18.35,29.4777137,-98.6073662,29,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",1999
+"sa","2012-05-20","Sunday","16:07:00",16.1166666666667,29.4607,-98.4103,23,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2010
+"sa","2013-09-30","Monday","23:56:00",23.9333333333333,29.429314,-98.6485794,29,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2010
+"sa","2012-05-09","Wednesday","10:12:00",10.2,29.62358,-98.4615753,41,"black","male","DRIVING ON LEFT - IMPROVED SHOULDER|OVERLOADING LOOSE MATERIALS|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","other",1989
+"sa","2017-07-26","Wednesday","06:58:00",6.96666666666667,29.3461796,-98.5438627,53,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","black",2002
+"sa","2014-03-29","Saturday","21:06:00",21.1,29.4659611,-98.6194238,19,"hispanic","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","white",1995
+"sa","2013-05-19","Sunday","09:46:00",9.76666666666667,29.5650883,-98.5917656,33,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","chevrolet","white",2006
+"sa","2013-03-26","Tuesday","21:53:00",21.8833333333333,29.403572,-98.627507,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2013-11-06","Wednesday","21:41:00",21.6833333333333,29.362938,-98.4447572,22,"white","female","SPEEDING-POSTED LIMIT","citation","other","black",2009
+"sa","2017-04-09","Sunday","16:10:00",16.1666666666667,29.6088917,-98.6024168,38,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2014
+"sa","2017-05-05","Friday","17:51:00",17.85,29.5585434,-98.5904359,19,"white","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","toyota","black",2010
+"sa","2013-07-19","Friday","17:55:00",17.9166666666667,29.4740871,-98.5445686,29,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|SPEEDING-POSTED LIMIT","citation","other","black",1997
+"sa","2015-10-17","Saturday","01:05:00",1.08333333333333,29.5650883,-98.5917656,31,"other","male","SPEEDING-POSTED LIMIT","citation","other","other",2008
+"sa","2015-02-11","Wednesday","11:49:00",11.8166666666667,29.4936367,-98.5544751,23,"hispanic","female","SPEEDING-POSTED LIMIT","citation","honda","gray",2012
+"sa","2013-09-14","Saturday","16:28:00",16.4666666666667,29.5643097,-98.5915282,24,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2007
+"sa","2016-01-05","Tuesday","11:19:00",11.3166666666667,29.3690038,-98.5174506,22,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","silver",2013
+"sa","2012-02-17","Friday","02:27:00",2.45,29.3531977,-98.6176653,18,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","black",2004
+"sa","2015-07-05","Sunday","11:30:00",11.5,29.5074634,-98.5068156,35,"white","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","black",2016
+"sa","2015-05-25","Monday","20:14:00",20.2333333333333,29.4169091,-98.4800119,31,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2012
+"sa","2016-01-20","Wednesday","17:18:00",17.3,29.6088917,-98.6024168,21,"hispanic","male","SPEEDING-POSTED LIMIT|FOLLOWING TOO CLOSELY","citation","other","silver",1999
+"sa","2013-03-19","Tuesday","18:18:00",18.3,29.3384524,-98.552372,54,"other","female","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2003
+"sa","2018-02-07","Wednesday","14:29:00",14.4833333333333,29.4950581,-98.4001482,67,"hispanic","male","DISREGARD RED LIGHT","citation","ford","other",2008
+"sa","2019-08-05","Monday","12:25:00",12.4166666666667,29.488624,-98.4007513,52,"white","male","DISREGARD RED LIGHT","citation","other","gray",2008
+"sa","2012-11-24","Saturday","16:27:00",16.45,29.4497692,-98.4227397,19,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2013
+"sa","2015-05-22","Friday","17:36:00",17.6,29.528474,-98.561213,33,"other","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","honda","other",1995
+"sa","2018-11-06","Tuesday","18:05:00",18.0833333333333,29.6435809220001,-98.4776962239999,57,"black","female","DISREGARD STOP SIGN","citation","other","other",2006
+"sa","2012-04-02","Monday","11:36:00",11.6,29.413354,-98.4322416,24,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","other",2001
+"sa","2016-10-24","Monday","07:26:00",7.43333333333333,29.402241,-98.6230975,27,"white","female","SPEEDING-POSTED LIMIT","citation","ford","black",2014
+"sa","2017-08-10","Thursday","09:53:00",9.88333333333333,29.4362213,-98.4602196,47,"hispanic","male","SPEEDING-POSTED LIMIT|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","ford","other",1999
+"sa","2018-07-11","Wednesday","14:18:00",14.3,29.4565364,-98.6260319,36,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","gray",2017
+"sa","2017-08-18","Friday","22:50:00",22.8333333333333,29.4247513,-98.4235783,21,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","white",2015
+"sa","2017-01-30","Monday","14:30:00",14.5,29.402241,-98.6230975,27,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","other","black",2013
+"sa","2013-05-01","Wednesday","13:37:00",13.6166666666667,29.4700249,-98.4066435,48,"black","female","FAIL TO YIELD RIGHT OF WAY TO CONTROLLEDACCESS HIGHWAY (9-73A)","citation","other","other",1993
+"sa","2016-05-07","Saturday","22:00:00",22,29.4242256,-98.4425855,25,"black","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","black",2013
+"sa","2012-10-07","Sunday","17:26:00",17.4333333333333,29.3441636,-98.546841,43,"hispanic","male","PASSING AUTHORIZED EMERGENCY VEHICLE","citation","ford","black",2003
+"sa","2014-11-04","Tuesday","13:35:00",13.5833333333333,29.330191,-98.541221,28,"hispanic","male","NO VALID CERTIFICATE OF INSPECTION|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","other",2001
+"sa","2018-02-06","Tuesday","09:54:00",9.9,29.356618,-98.5162835,37,"white","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","toyota","gray",2017
+"sa","2016-04-05","Tuesday","20:02:00",20.0333333333333,29.4040082,-98.6253236,23,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2015
+"sa","2014-07-09","Wednesday","22:16:00",22.2666666666667,29.435204,-98.5249345,27,"hispanic","male","IMPROPER RIGHT TURN AT INTERSECTION|FAILURE TO DISPLAY DRIVER'S LICENSE|NO VALID CERTIFICATE OF INSPECTION","citation","other","white",2006
+"sa","2019-05-16","Thursday","19:20:00",19.3333333333333,29.634908368,-98.613776402,31,"black","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",2017
+"sa","2015-08-19","Wednesday","08:51:00",8.85,29.3543746,-98.46229,41,"hispanic","female","SPEEDING-POSTED LIMIT|UNSAFE SPEED|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","other",2007
+"sa","2017-06-15","Thursday","17:46:00",17.7666666666667,29.3150561,-98.4752684,18,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","honda","other",2000
+"sa","2018-10-26","Friday","11:50:00",11.8333333333333,29.2917523,-98.4725113,50,"white","female","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","chevrolet","other",2017
+"sa","2019-06-21","Friday","14:46:00",14.7666666666667,29.2850399,-98.4727158,44,"white","female","GLASS COATED WINDOWS","citation","ford","white",2017
+"sa","2016-12-02","Friday","07:09:00",7.15,29.4211649,-98.4732421,22,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING IN SCHOOL ZONE","citation","other","silver",2017
+"sa","2019-01-24","Thursday","10:41:00",10.6833333333333,29.4838616,-98.5799131,79,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2015
+"sa","2016-06-11","Saturday","13:23:00",13.3833333333333,29.2828699,-98.4724316,40,"white","male","SPEEDING-POSTED LIMIT","citation","honda","gray",2010
+"sa","2012-05-29","Tuesday","21:03:00",21.05,29.33694,-98.533586,36,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","gray",2011
+"sa","2013-03-21","Thursday","20:07:00",20.1166666666667,29.4406511,-98.4989918,29,"white","female","FAILURE TO DISPLAY VALID LICENSE PLATE","citation","honda","silver",2013
+"sa","2014-03-19","Wednesday","08:09:00",8.15,29.370574,-98.5340334,26,"hispanic","male","USE OF A WIRELESS COMMUNICATION DEVICE IN A SCHOOL CROSSING ZONE/SCHOOL PROPERTY|SPEEDING IN SCHOOL ZONE","citation","chevrolet","other",2011
+"sa","2015-01-17","Saturday","15:40:00",15.6666666666667,29.4197182,-98.5890883,32,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","gray",2013
+"sa","2014-02-06","Thursday","11:04:00",11.0666666666667,29.3770877,-98.5134597,55,"white","male","SPEEDING - CONSTRUCTION ZONE|DRIVING WHILE LICENSE INVALID","citation","other","other",2013
+"sa","2015-07-22","Wednesday","12:00:00",12,29.5201734,-98.4964914,56,"white","male","IMPROPER LANE CHANGE","citation","ford","silver",2014
+"sa","2017-10-25","Wednesday","12:11:00",12.1833333333333,29.4742113,-98.6963234,20,"white","male","SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","ford","other",2015
+"sa","2016-03-14","Monday","10:59:00",10.9833333333333,29.413916,-98.490892,33,"white","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",2004
+"sa","2018-03-12","Monday","12:02:00",12.0333333333333,29.4198137,-98.5888616,42,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2016-02-25","Thursday","13:46:00",13.7666666666667,29.3252279,-98.598452,21,"white","male","SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","other","other",2009
+"sa","2012-12-30","Sunday","18:20:00",18.3333333333333,29.5721633,-98.3801299,42,"hispanic","male","DISREGARD STOP SIGN","citation","other","other",2001
+"sa","2014-11-12","Wednesday","08:20:00",8.33333333333333,29.4682609,-98.5298521,28,"hispanic","male","SPEEDING-POSTED LIMIT","citation","honda","other",2005
+"sa","2016-05-03","Tuesday","11:19:00",11.3166666666667,29.4607,-98.4103,33,"white","male","SPEEDING-POSTED LIMIT","citation","other","gray",2015
+"sa","2014-03-24","Monday","11:28:00",11.4666666666667,29.2850399,-98.4727158,41,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","gray",2005
+"sa","2016-10-21","Friday","16:51:00",16.85,29.4904575,-98.6567541,46,"white","female","DRIVING WHILE LICENSE INVALID","arrest","other","black",2016
+"sa","2018-04-05","Thursday","08:42:00",8.7,29.4002311,-98.5120868,36,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","white",2011
+"sa","2016-07-14","Thursday","12:22:00",12.3666666666667,29.5304234,-98.5637783,34,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","toyota","gray",2015
+"sa","2014-05-13","Tuesday","16:30:00",16.5,29.2807978,-98.4724153,42,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2007
+"sa","2014-05-30","Friday","12:50:00",12.8333333333333,29.4276638,-98.5269847,20,"hispanic","female","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","other",2003
+"sa","2014-07-18","Friday","13:32:00",13.5333333333333,29.4602421,-98.5849213,37,"white","female","SPEEDING-POSTED LIMIT|IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","other",2006
+"sa","2017-05-03","Wednesday","14:20:00",14.3333333333333,29.6088917,-98.6024168,22,"white","female","SPEEDING-POSTED LIMIT","citation","other","white",2015
+"sa","2012-04-01","Sunday","19:52:00",19.8666666666667,29.3690489,-98.6000995,29,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",1999
+"sa","2016-04-05","Tuesday","10:29:00",10.4833333333333,29.4591687,-98.5851541,25,"hispanic","female","FAILURE TO DISPLAY DRIVER'S LICENSE|SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","other","silver",2013
+"sa","2014-03-05","Wednesday","12:54:00",12.9,29.3746764,-98.4270165,22,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|SPEEDING-POSTED LIMIT","citation","other","other",2014
+"sa","2015-07-22","Wednesday","15:39:00",15.65,29.3528029,-98.5290482,35,"hispanic","female","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","other",1996
+"sa","2014-01-16","Thursday","01:32:00",1.53333333333333,29.5082375,-98.4112652,23,"hispanic","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|DISREGARD STOP SIGN","citation","other","white",2013
+"sa","2018-08-10","Friday","09:40:00",9.66666666666667,29.5650883,-98.5917656,31,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2015
+"sa","2012-08-25","Saturday","17:30:00",17.5,29.4476054,-98.5958039,22,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|NO VALID CERTIFICATE OF INSPECTION|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","gray",2000
+"sa","2015-01-25","Sunday","22:20:00",22.3333333333333,29.426497,-98.5207365,29,"hispanic","female","DISREGARD RED LIGHT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",2015
+"sa","2015-12-11","Friday","17:59:00",17.9833333333333,29.450037,-98.4058801,22,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",1998
+"sa","2014-06-24","Tuesday","10:30:00",10.5,29.4241219,-98.4936282,45,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","ford","other",2015
+"sa","2013-03-08","Friday","07:19:00",7.31666666666667,29.3566174,-98.5142949,19,"hispanic","female","SPEEDING IN SCHOOL ZONE","citation","toyota","other",2003
+"sa","2019-06-06","Thursday","12:48:00",12.8,29.4426585,-98.6819724,18,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2008
+"sa","2013-07-26","Friday","22:31:00",22.5166666666667,29.4247962,-98.4816434,23,"black","female","SPEEDING-POSTED LIMIT","citation","other","silver",2007
+"sa","2013-04-03","Wednesday","11:20:00",11.3333333333333,29.5650883,-98.5917656,52,"black","female","SPEEDING-POSTED LIMIT","citation","other","other",2009
+"sa","2016-02-25","Thursday","14:40:00",14.6666666666667,29.4607,-98.4103,39,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2016
+"sa","2012-09-23","Sunday","10:50:00",10.8333333333333,29.5400372,-98.3792841,32,"hispanic","male","DISREGARD RED LIGHT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2010
+"sa","2014-01-07","Tuesday","21:17:00",21.2833333333333,29.4040082,-98.6253236,33,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","other",1996
+"sa","2016-05-03","Tuesday","20:57:00",20.95,29.5650883,-98.5917656,35,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2003
+"sa","2013-09-23","Monday","17:32:00",17.5333333333333,29.508333,-98.1662711,36,"black","female","OPERATING ACROSS PRIVATE PROPERTY (RIGHTOR LEFT TURN)","citation","honda","white",2011
+"sa","2016-02-11","Thursday","18:23:00",18.3833333333333,29.42852,-98.496908,51,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","toyota","white",2013
+"sa","2012-04-28","Saturday","11:32:00",11.5333333333333,29.5934122,-98.2903213,48,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","silver",2007
+"sa","2019-10-23","Wednesday","08:15:00",8.25,29.4706239,-98.572974,57,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","other",2004
+"sa","2019-01-28","Monday","07:25:00",7.41666666666667,29.5771143,-98.6444113,18,"black","male","SPEEDING IN SCHOOL ZONE","citation","other","other",2018
+"sa","2014-07-16","Wednesday","11:01:00",11.0166666666667,29.4682609,-98.5298521,37,"white","female","SPEEDING-POSTED LIMIT","citation","other","black",2001
+"sa","2018-04-13","Friday","09:34:00",9.56666666666667,29.6088917,-98.6024168,26,"asian/pacific islander","male","SPEEDING-POSTED LIMIT|IMPROPER LANE CHANGE","citation","toyota","black",2014
+"sa","2014-03-27","Thursday","12:32:00",12.5333333333333,29.4169091,-98.4800119,31,"white","male","SPEEDING-POSTED LIMIT","citation","ford","black",2013
+"sa","2013-04-01","Monday","19:39:00",19.65,29.4472843,-98.6353309,37,"hispanic","male","IMPROPER LANE CHANGE -SIGNAL|SPEEDING-POSTED LIMIT","citation","toyota","white",2009
+"sa","2012-11-27","Tuesday","01:53:00",1.88333333333333,29.3628847,-98.4813612,39,"white","male","DISREGARD STOP SIGN","citation","other","black",2001
+"sa","2012-07-16","Monday","20:30:00",20.5,29.4937293,-98.6920487,21,"hispanic","male","NO VALID CERTIFICATE OF INSPECTION|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","chevrolet","white",2005
+"sa","2012-08-31","Friday","04:43:00",4.71666666666667,29.520108,-98.4920612,21,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING WITHOUT LICENSED OPERATOR IN FRONT SEAT","citation","other","gray",2002
+"sa","2020-02-20","Thursday","07:34:00",7.56666666666667,29.620999203,-98.6457438099999,21,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING IN SCHOOL ZONE","citation","other","gray",2016
+"sa","2017-05-03","Wednesday","18:09:00",18.15,29.4186895,-98.5178676,45,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","other",2005
+"sa","2015-06-23","Tuesday","18:49:00",18.8166666666667,29.6648696,-98.1680624,23,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","white",2006
+"sa","2014-01-14","Tuesday","16:30:00",16.5,29.35776,-98.524687,21,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2004
+"sa","2014-04-25","Friday","19:48:00",19.8,29.6088917,-98.6024168,41,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","gray",2012
+"sa","2013-10-04","Friday","14:52:00",14.8666666666667,29.4139559,-98.6289918,64,"asian/pacific islander","female","SPEEDING IN SCHOOL ZONE","citation","other","other",2013
+"sa","2014-03-17","Monday","13:52:00",13.8666666666667,29.4023055,-98.6243341,18,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","toyota","silver",2006
+"sa","2014-01-22","Wednesday","15:17:00",15.2833333333333,29.5571249,-98.6149714,31,"other","female","SPEEDING IN SCHOOL ZONE|FAILURE TO DISPLAY VALID LICENSE PLATE","citation","other","other",2008
+"sa","2017-10-02","Monday","14:12:00",14.2,29.4198643,-98.5887415,26,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING-POSTED LIMIT","citation","other","white",2014
+"sa","2015-07-14","Tuesday","15:21:00",15.35,29.5966721,-98.2822934,33,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","black",1999
+"sa","2017-03-05","Sunday","10:43:00",10.7166666666667,29.4202547,-98.5877502,23,"hispanic","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","black",2015
+"sa","2013-08-07","Wednesday","20:05:00",20.0833333333333,29.6687566,-98.4493262,27,"hispanic","male","OPERATING WITHOUT MOTORCYCLE OPERATOR'SLICENSE|NO VALID CERTIFICATE OF INSPECTION","citation","honda","other",2011
+"sa","2014-09-18","Thursday","12:16:00",12.2666666666667,29.3954987,-98.5159411,39,"black","male","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2015-09-30","Wednesday","12:13:00",12.2166666666667,29.3984527,-98.6435446,39,"hispanic","male","DISOBEY TRAFFIC SIGNS - CONSTRUCTION ZONE|FOLLOWING TOO CLOSELY","citation","other","black",2006
+"sa","2017-08-24","Thursday","00:03:00",0.05,29.3386127,-98.5417639,20,"hispanic","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",2010
+"sa","2015-05-06","Wednesday","10:36:00",10.6,29.4847852,-98.4303333,64,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","gray",2006
+"sa","2014-01-15","Wednesday","10:11:00",10.1833333333333,29.362938,-98.4447572,32,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2009
+"sa","2016-05-20","Friday","13:03:00",13.05,29.352914,-98.42534,49,"white","female","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",2007
+"sa","2012-06-03","Sunday","13:16:00",13.2666666666667,29.352914,-98.42534,22,"white","female","SAFETY SEAT SYSTEM - 7 YEARS AND UNDER","citation","other","other",1993
+"sa","2013-01-31","Thursday","13:38:00",13.6333333333333,29.4169091,-98.4800119,36,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","gray",2010
+"sa","2013-07-01","Monday","10:43:00",10.7166666666667,29.4698788,-98.5305134,79,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","white",1996
+"sa","2018-01-18","Thursday","02:01:00",2.01666666666667,29.5442387,-98.5487829,33,"hispanic","male","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","silver",2005
+"sa","2018-07-28","Saturday","08:49:00",8.81666666666667,29.5167556,-98.4655599,30,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","black",2014
+"sa","2014-09-05","Friday","11:20:00",11.3333333333333,29.3090549,-98.4736553,29,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","arrest","toyota","black",2008
+"sa","2017-09-07","Thursday","21:58:00",21.9666666666667,29.6709308,-98.1598547,31,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","other",2012
+"sa","2014-09-28","Sunday","17:03:00",17.05,29.5312593,-98.5058302,42,"black","male","SPEEDING-POSTED LIMIT","citation","other","black",2011
+"sa","2018-10-27","Saturday","16:25:00",16.4166666666667,29.412011,-98.476222,41,"hispanic","male","OBEYING WARNING SIGNS AND BARRICADES|STOPPING  STANDING OR PARKING IN PROHIBITED PLACES","citation","honda","white",2011
+"sa","2014-02-20","Thursday","15:00:00",15,29.3889785,-98.4859595,47,"hispanic","male","NO VALID CERTIFICATE OF INSPECTION|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|SPEEDING IN SCHOOL ZONE","citation","chevrolet","white",1997
+"sa","2012-10-18","Thursday","04:25:00",4.41666666666667,29.5087729,-98.3905102,38,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|HITCHHIKERS","citation","other","other",2002
+"sa","2018-07-21","Saturday","13:58:00",13.9666666666667,29.5934122,-98.2903213,50,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",2017
+"sa","2012-07-11","Wednesday","20:59:00",20.9833333333333,29.5956507,-98.5103465,59,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2010
+"sa","2018-11-30","Friday","08:11:00",8.18333333333333,29.6383561,-98.4442234,45,"white","male","SPEEDING IN SCHOOL ZONE","citation","other","white",2017
+"sa","2012-08-26","Sunday","12:52:00",12.8666666666667,29.450037,-98.4058801,30,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2012
+"sa","2019-09-16","Monday","12:07:00",12.1166666666667,29.4587676,-98.624862,28,"white","female","SPEEDING-POSTED LIMIT","citation","other","silver",2014
+"sa","2017-09-19","Tuesday","13:25:00",13.4166666666667,29.4198025,-98.5888882,23,"black","female","SPEEDING-POSTED LIMIT","citation","other","white",2016
+"sa","2013-11-23","Saturday","19:05:00",19.0833333333333,29.5553662,-98.5886663,35,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DISREGARD STOP SIGN","citation","ford","other",1998
+"sa","2013-05-07","Tuesday","19:38:00",19.6333333333333,29.520108,-98.4920612,36,"black","male","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2009
+"sa","2012-03-11","Sunday","12:46:00",12.7666666666667,29.3997168,-98.4822101,19,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",1998
+"sa","2012-02-09","Thursday","10:03:00",10.05,29.3528029,-98.5290482,21,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2007
+"sa","2016-12-22","Thursday","08:38:00",8.63333333333333,29.3528029,-98.5290482,31,"white","female","SPEEDING - CONSTRUCTION ZONE|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","other",2011
+"sa","2016-02-07","Sunday","21:49:00",21.8166666666667,29.5611372,-98.361168,30,"white","female","FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","black",2011
+"sa","2013-09-29","Sunday","12:03:00",12.05,29.4040082,-98.6253236,32,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2013
+"sa","2012-09-04","Tuesday","01:21:00",1.35,29.4889752,-98.5673348,24,"hispanic","female","SPEEDING-POSTED LIMIT","citation","honda","other",2005
+"sa","2016-09-10","Saturday","10:43:00",10.7166666666667,29.6088917,-98.6024168,33,"white","female","SPEEDING-POSTED LIMIT","citation","honda","white",2012
+"sa","2016-02-07","Sunday","10:52:00",10.8666666666667,29.6088917,-98.6024168,60,"white","male","SPEEDING-POSTED LIMIT","citation","other","gray",2014
+"sa","2017-10-11","Wednesday","09:50:00",9.83333333333333,29.4607,-98.4103,37,"white","male","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2015
+"sa","2017-06-01","Thursday","20:22:00",20.3666666666667,29.588389,-98.4075998,56,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","toyota","silver",2003
+"sa","2013-07-26","Friday","13:47:00",13.7833333333333,29.3051558,-98.5381701,27,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2004
+"sa","2015-09-24","Thursday","13:18:00",13.3,29.351283,-98.5315515,24,"white","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","other",2000
+"sa","2014-08-13","Wednesday","02:12:00",2.2,29.3802714,-98.5008791,26,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT CORRECTIVE LENSES|DRIVING WHILE LICENSE INVALID|GLASS COATED WINDOWS","citation","other","other",2007
+"sa","2019-02-26","Tuesday","12:17:00",12.2833333333333,29.4418249,-98.5250804,31,"hispanic","male","FAILURE TO DISPLAY DRIVER'S LICENSE|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","black",2009
+"sa","2014-10-31","Friday","08:42:00",8.7,29.3323015,-98.55107,30,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","toyota","other",2007
+"sa","2018-07-12","Thursday","08:10:00",8.16666666666667,29.5043193,-98.5592162,47,"hispanic","male","SPEEDING-POSTED LIMIT","citation","toyota","black",2017
+"sa","2012-12-29","Saturday","12:52:00",12.8666666666667,29.5152279,-98.4458989,26,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2012
+"sa","2015-07-08","Wednesday","07:19:00",7.31666666666667,29.5540998,-98.6676504,23,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","white",2006
+"sa","2018-08-02","Thursday","01:41:00",1.68333333333333,29.4513956,-98.4915216,30,"hispanic","female","SPEEDING-POSTED LIMIT","citation","chevrolet","other",2014
+"sa","2018-01-11","Thursday","15:18:00",15.3,29.3159576,-98.4755551,35,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2014
+"sa","2012-11-14","Wednesday","19:43:00",19.7166666666667,29.5247226,-98.4425963,65,"hispanic","female","SAFETY SEAT SYSTEM - 7 YEARS AND UNDER|SPEEDING-POSTED LIMIT","citation","other","other",2002
+"sa","2013-06-06","Thursday","13:59:00",13.9833333333333,29.5650883,-98.5917656,51,"white","male","SPEEDING-POSTED LIMIT","citation","other","black",2008
+"sa","2012-12-07","Friday","15:47:00",15.7833333333333,29.6830399,-98.1393914,43,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","other",1998
+"sa","2017-03-01","Wednesday","07:07:00",7.11666666666667,29.413971,-98.5042584,27,"hispanic","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","other",2014
+"sa","2019-04-17","Wednesday","17:15:00",17.25,29.4451518,-98.5249336,49,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","white",2008
+"sa","2016-09-09","Friday","12:53:00",12.8833333333333,29.5482839,-98.4849274,26,"white","male","SPEEDING-POSTED LIMIT","citation","ford","white",2008
+"sa","2017-05-17","Wednesday","10:53:00",10.8833333333333,29.6088917,-98.6024168,20,"hispanic","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","other",1994
+"sa","2014-05-01","Thursday","21:28:00",21.4666666666667,29.4383298,-98.4565286,49,"hispanic","female","DRIVING WHILE LICENSE INVALID|IMPROPER LANE CHANGE","citation","other","white",2000
+"sa","2013-08-16","Friday","01:48:00",1.8,29.436177,-98.5236711,43,"white","male","IMPEDING TRAFFIC|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",1998
+"sa","2012-09-22","Saturday","23:55:00",23.9166666666667,29.4067827,-98.4777096,24,"black","male","DISREGARD STOP SIGN","citation","other","other",2010
+"sa","2018-05-02","Wednesday","13:23:00",13.3833333333333,29.4169091,-98.4800119,22,"hispanic","male","SPEEDING-POSTED LIMIT","citation","chevrolet","white",2017
+"sa","2013-09-06","Friday","07:28:00",7.46666666666667,29.4652839,-98.6167265,33,"hispanic","female","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|IMPROPER RIGHT OR LEFT TURN - SIGNAL|FAILURE TO DISPLAY VALID REGISTRATION INSIGNIA (STICKER)","citation","other","gray",2006
+"sa","2012-08-29","Wednesday","17:40:00",17.6666666666667,29.4962923,-98.4917131,45,"other","male","SPEEDING-POSTED LIMIT","citation","other","other",2002
+"sa","2013-12-06","Friday","17:02:00",17.0333333333333,29.4247962,-98.4816434,20,"hispanic","male","IMPROPER LANE CHANGE","citation","ford","gray",2008
+"sa","2018-05-03","Thursday","16:21:00",16.35,29.3503526,-98.5335994,32,"hispanic","male","SPEEDING-POSTED LIMIT|DRIVING WHILE LICENSE INVALID","citation","honda","other",2014
+"sa","2012-12-20","Thursday","09:53:00",9.88333333333333,29.3528029,-98.5290482,36,"hispanic","male","SPEEDING-POSTED LIMIT|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2000
+"sa","2019-11-01","Friday","23:49:00",23.8166666666667,29.494835505,-98.542009912,42,"white","male","POSSESSION OF OPEN CONTAINER","citation","honda","silver",2007
+"sa","2017-10-05","Thursday","11:37:00",11.6166666666667,29.5190912,-98.4868987,27,"hispanic","female","SPEEDING-POSTED LIMIT","citation","chevrolet","black",2013
+"sa","2013-08-23","Friday","12:42:00",12.7,29.4078615,-98.5026401,21,"hispanic","female","FAILURE TO DISPLAY DRIVER'S LICENSE|SPEEDING-POSTED LIMIT","citation","ford","other",2010
+"sa","2013-06-16","Sunday","23:48:00",23.8,29.5542832,-98.5335966,36,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|DRIVING WHILE LICENSE INVALID|SAFETY SEAT SYSTEM - 7 YEARS AND UNDER","citation","other","other",2000
+"sa","2013-10-24","Thursday","08:35:00",8.58333333333333,29.4236447,-98.3911571,46,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","other",1997
+"sa","2012-12-15","Saturday","03:50:00",3.83333333333333,29.3681068,-98.532914,26,"hispanic","male","NO VALID CERTIFICATE OF INSPECTION","citation","chevrolet","other",1991
+"sa","2015-11-23","Monday","21:38:00",21.6333333333333,29.5650883,-98.5917656,17,"asian/pacific islander","female","IMPROPER LIGHTS-NO LIGHTS","citation","other","other",2003
+"sa","2019-02-21","Thursday","11:21:00",11.35,29.520108,-98.4920612,26,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","silver",2017
+"sa","2017-09-19","Tuesday","07:27:00",7.45,29.5031067,-98.4590854,34,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","ford","white",2015
+"sa","2014-07-07","Monday","17:55:00",17.9166666666667,29.4497692,-98.4227397,60,"black","male","SPEEDING-POSTED LIMIT","citation","toyota","silver",2011
+"sa","2018-01-26","Friday","10:55:00",10.9166666666667,29.450037,-98.4058801,35,"white","female","SPEEDING-POSTED LIMIT","citation","other","gray",2016
+"sa","2015-12-01","Tuesday","11:37:00",11.6166666666667,29.5190912,-98.4868987,43,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","black",2014
+"sa","2020-01-12","Sunday","00:46:00",0.766666666666667,29.5190912,-98.4868987,38,"white","female","SPEEDING-POSTED LIMIT|DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY","citation","other","black",2014
+"sa","2018-07-16","Monday","16:33:00",16.55,29.466819,-98.6959,47,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","other",2001
+"sa","2015-08-19","Wednesday","11:31:00",11.5166666666667,29.35776,-98.524687,28,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2013
+"sa","2019-06-10","Monday","08:58:00",8.96666666666667,29.5018809,-98.3985141,34,"black","female","SPEEDING-POSTED LIMIT","citation","other","white",2018
+"sa","2014-01-31","Friday","17:45:00",17.75,29.4497692,-98.4227397,24,"black","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|IMPROPER LANE CHANGE","citation","chevrolet","black",2013
+"sa","2012-03-24","Saturday","23:57:00",23.95,29.5972009,-98.5697629,24,"hispanic","male","SPEEDING-POSTED LIMIT","citation","ford","silver",2006
+"sa","2019-05-26","Sunday","09:14:00",9.23333333333333,29.3809583,-98.5122448,49,"asian/pacific islander","male","SPEEDING-POSTED LIMIT|UNSAFE SPEED","citation","toyota","silver",2019
+"sa","2017-07-24","Monday","08:16:00",8.26666666666667,29.6083485,-98.4185373,25,"hispanic","female","SPEEDING-POSTED LIMIT","citation","other","white",2011
+"sa","2014-11-26","Wednesday","09:34:00",9.56666666666667,29.4198756,-98.5887149,43,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","gray",2014
+"sa","2013-08-25","Sunday","21:43:00",21.7166666666667,29.3528029,-98.5290482,37,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2011
+"sa","2012-07-07","Saturday","12:15:00",12.25,29.4247962,-98.4816434,26,"hispanic","female","SPEEDING-POSTED LIMIT","citation","ford","white",2006
+"sa","2016-09-16","Friday","13:36:00",13.6,29.5355292,-98.5055711,32,"white","male","SPEEDING-POSTED LIMIT","citation","ford","gray",2010
+"sa","2020-01-27","Monday","13:36:00",13.6,29.520108,-98.4920612,40,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","chevrolet","black",1999
+"sa","2016-08-04","Thursday","10:58:00",10.9666666666667,29.3978125,-98.3962764,21,"black","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER|DISPLAY WRONG LICENSE PLATE OR REGISTRATION INSIGNIA|DRIVING WHILE LICENSE INVALID","citation","other","other",1997
+"sa","2018-03-30","Friday","15:59:00",15.9833333333333,29.391815568,-98.519182273,30,"hispanic","male","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE|IMPROPER RIGHT TURN AT INTERSECTION","citation","other","black",2008
+"sa","2013-06-13","Thursday","23:43:00",23.7166666666667,29.6129899,-98.5994315,29,"white","female","DISREGARD STOP SIGN","citation","other","white",2003
+"sa","2016-11-10","Thursday","14:56:00",14.9333333333333,29.4040082,-98.6253236,32,"white","male","SPEEDING-POSTED LIMIT","citation","toyota","silver",2009
+"sa","2013-12-21","Saturday","15:36:00",15.6,29.3528029,-98.5290482,34,"white","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","other","black",2000
+"sa","2016-07-20","Wednesday","13:30:00",13.5,29.3206883,-98.5012084,18,"white","female","IMPROPER LANE CHANGE|OBEDIENCE TO RAISED PAVEMENT MARKERS","citation","honda","other",2001
+"sa","2018-07-13","Friday","16:05:00",16.0833333333333,29.4169091,-98.4800119,49,"white","male","SPEEDING-POSTED LIMIT","citation","other","other",2016
+"sa","2012-01-04","Wednesday","18:45:00",18.75,29.5650883,-98.5917656,38,"white","male","SPEEDING-POSTED LIMIT","citation","other","silver",2005
+"sa","2020-06-21","Sunday","11:32:00",11.5333333333333,29.3994408,-98.6395875,23,"white","male","SPEEDING-POSTED LIMIT","citation","honda","black",2014
+"sa","2013-08-26","Monday","14:08:00",14.1333333333333,29.4453581,-98.5272053,31,"hispanic","male","SPEEDING IN SCHOOL ZONE|NO VALID CERTIFICATE OF INSPECTION|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","other","other",2004
+"sa","2020-01-26","Sunday","12:01:00",12.0166666666667,29.4887657,-98.5706276,27,"black","male","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","white",1997
+"sa","2016-02-01","Monday","16:48:00",16.8,29.520108,-98.4920612,39,"white","male","IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","toyota","white",2000
+"sa","2013-01-08","Tuesday","15:53:00",15.8833333333333,29.3869175,-98.519709,33,"hispanic","male","SPEEDING IN SCHOOL ZONE","citation","other","other",2001
+"sa","2019-07-14","Sunday","10:46:00",10.7666666666667,29.3823745,-98.5122472,35,"white","male","SPEEDING-POSTED LIMIT","citation","other","white",2019
+"sa","2017-05-10","Wednesday","08:58:00",8.96666666666667,29.543219,-98.492213,37,"white","female","STOPPING  STANDING OR PARKING IN PROHIBITED PLACES","citation","honda","black",2017
+"sa","2015-09-02","Wednesday","21:55:00",21.9166666666667,29.413354,-98.4322416,41,"white","male","SPEEDING-POSTED LIMIT","citation","ford","silver",2002
+"sa","2016-07-05","Tuesday","22:31:00",22.5166666666667,29.440724,-98.525431,17,"white","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","silver",2004
+"sa","2018-08-14","Tuesday","09:32:00",9.53333333333333,29.4687385,-98.5182376,25,"hispanic","male","DRIVING WITHOUT PROOF OF FINANCIAL RESPONSIBILITY|USE OF HAND-HELD MOBILE COMMUNICATION DEVICE|OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","other",1994
+"sa","2017-05-16","Tuesday","12:47:00",12.7833333333333,29.4340278,-98.5469012,35,"hispanic","female","SPEEDING-POSTED LIMIT|FAILURE TO DISPLAY DRIVER'S LICENSE","citation","ford","other",1999
+"sa","2017-06-09","Friday","09:30:00",9.5,29.532557,-98.5444888,58,"white","female","SPEEDING-POSTED LIMIT","citation","ford","other",2007
+"sa","2012-02-26","Sunday","21:37:00",21.6166666666667,29.5325539,-98.4548387,31,"black","male","SPEEDING-POSTED LIMIT","citation","toyota","other",1997
+"sa","2014-06-24","Tuesday","19:13:00",19.2166666666667,29.4742113,-98.6963234,53,"hispanic","female","IMPROPER LANE CHANGE -SIGNAL","citation","other","silver",2004
+"sa","2014-07-18","Friday","14:27:00",14.45,29.4602421,-98.5849213,22,"hispanic","female","SPEEDING-POSTED LIMIT|IMPROPER USE OR FAILURE TO USE SAFETY BELT BY PERSON 15 YEARS OLD OR OLDER","citation","chevrolet","silver",2004
+"sa","2017-08-14","Monday","07:07:00",7.11666666666667,29.5168309,-98.6885159,37,"hispanic","male","SPEEDING-POSTED LIMIT","citation","other","silver",2017
+"sa","2017-02-23","Thursday","10:16:00",10.2666666666667,29.4883891,-98.4299231,62,"white","female","USE OF HAND-HELD MOBILE COMMUNICATION DEVICE","citation","other","black",2015
+"sa","2016-03-29","Tuesday","08:08:00",8.13333333333333,29.40266,-98.5091921,36,"white","male","FAIL TO YIELD AT TRAFFIC SIGNAL DEVICE (9-71A)","citation","other","silver",2004
+"sa","2013-12-15","Sunday","12:48:00",12.8,29.3528029,-98.5290482,38,"white","female","SPEEDING - CONSTRUCTION ZONE","citation","other","white",2010
+"sa","2017-08-01","Tuesday","08:51:00",8.85,29.3638748,-98.5214317,40,"hispanic","female","SPEEDING-POSTED LIMIT","citation","toyota","silver",2018
+"sa","2012-10-07","Sunday","16:16:00",16.2666666666667,29.4414849,-98.3703909,27,"white","male","NO VALID CERTIFICATE OF INSPECTION|SPEEDING-POSTED LIMIT","citation","other","other",1996
+"sa","2018-05-28","Monday","12:15:00",12.25,29.401001,-98.6305703,30,"hispanic","female","SPEEDING - CONSTRUCTION ZONE","citation","other","white",2014
+"sa","2012-09-10","Monday","17:58:00",17.9666666666667,29.413354,-98.4322416,67,"asian/pacific islander","male","SPEEDING-POSTED LIMIT","citation","other","silver",2011
+"sa","2012-01-01","Sunday","21:21:00",21.35,29.4889752,-98.5673348,20,"hispanic","female","OPERATING A MOTOR VEHICLE WITHOUT A VALID LICENSE","citation","ford","gray",2011
+"sa","2012-12-02","Sunday","15:55:00",15.9166666666667,29.4247962,-98.4816434,20,"other","male","SPEEDING-POSTED LIMIT","citation","ford","other",1999
+"no","2014-01-17","Friday","16:30:00",16.5,29.963431,-90.0498129,54,"black","male","TRAFFIC VIOLATION","citation","toyota","white",1999
+"no","2013-04-17","Wednesday","08:28:00",8.46666666666667,30.0199325,-90.0222521,55,"black","male","TRAFFIC VIOLATION","warning","other","other",1997
+"no","2012-07-10","Tuesday","03:01:00",3.01666666666667,29.9569103,-90.0800168,20,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2001
+"no","2014-09-30","Tuesday","16:27:00",16.45,29.9685609,-90.0567196,35,"white","female","TRAFFIC VIOLATION","citation","honda","silver",2011
+"no","2017-06-28","Wednesday","19:49:00",19.8166666666667,29.9651861,-90.117036,64,"black","female","TRAFFIC VIOLATION","warning","other","black",2001
+"no","2011-12-29","Thursday","20:07:00",20.1166666666667,29.956889,-90.1053777,28,"black","female","CALL FOR SERVICE","citation","toyota","gray",2009
+"no","2017-10-06","Friday","10:16:00",10.2666666666667,29.952263,-90.0655142,35,"black","female","TRAFFIC VIOLATION","arrest","other","black",2017
+"no","2017-01-09","Monday","00:12:00",0.2,29.9628246,-90.0589677,32,"white","female","TRAFFIC VIOLATION","citation","ford","white",2013
+"no","2017-07-06","Thursday","03:37:00",3.61666666666667,29.9537072,-90.0700564,20,"black","male","TRAFFIC VIOLATION","warning","other","black",2014
+"no","2015-05-20","Wednesday","21:51:00",21.85,30.0098863,-90.0209174,34,"black","male","TRAFFIC VIOLATION","citation","chevrolet","other",2000
+"no","2015-11-12","Thursday","01:53:00",1.88333333333333,30.011068,-90.009742,43,"black","male","TRAFFIC VIOLATION","citation","ford","black",2009
+"no","2012-02-23","Thursday","09:24:00",9.4,30.0220217,-90.062475,19,"white","male","TRAFFIC VIOLATION","warning","honda","silver",2012
+"no","2018-03-04","Sunday","19:11:00",19.1833333333333,29.9624792,-90.1169244,19,"black","male","TRAFFIC VIOLATION","arrest","other","white",1999
+"no","2014-02-24","Monday","12:47:00",12.7833333333333,29.9427007,-90.1119858,69,"black","female","TRAFFIC VIOLATION","warning","other","other",2009
+"no","2014-08-25","Monday","14:20:00",14.3333333333333,29.9605225,-90.0685048,51,"black","female","TRAFFIC VIOLATION","citation","ford","silver",2014
+"no","2015-12-06","Sunday","21:02:00",21.0333333333333,29.9427007,-90.1119858,28,"white","male","TRAFFIC VIOLATION","warning","ford","other",2003
+"no","2016-03-06","Sunday","21:42:00",21.7,29.9592693,-90.1248942,35,"black","male","TRAFFIC VIOLATION","warning","other","silver",2004
+"no","2017-09-28","Thursday","16:37:00",16.6166666666667,29.9861598,-90.0690487,61,"black","female","TRAFFIC VIOLATION","citation","honda","silver",1999
+"no","2015-08-10","Monday","07:31:00",7.51666666666667,29.9376679,-90.0376225,27,"black","male","TRAFFIC VIOLATION","arrest","other","black",2009
+"no","2012-03-03","Saturday","08:44:00",8.73333333333333,29.9651125,-90.0325242,26,"black","female","TRAFFIC VIOLATION","citation","other","silver",2003
+"no","2018-01-25","Thursday","11:59:00",11.9833333333333,29.9390935,-90.0684299,44,"white","male","TRAFFIC VIOLATION","warning","honda","other",2013
+"no","2012-02-02","Thursday","20:44:00",20.7333333333333,29.9752648,-90.090137,26,"white","female","TRAFFIC VIOLATION","warning","toyota","other",1997
+"no","2016-01-05","Tuesday","16:08:00",16.1333333333333,30.0072154,-90.0744839,34,"black","female","TRAFFIC VIOLATION","citation","other","black",2016
+"no","2017-09-28","Thursday","14:21:00",14.35,30.0125312,-90.060478,37,"black","male","TRAFFIC VIOLATION","citation","ford","other",1998
+"no","2013-10-21","Monday","11:15:00",11.25,29.9485447,-90.0523945,26,"black","male","TRAFFIC VIOLATION","warning","other","gray",2005
+"no","2012-08-10","Friday","08:52:00",8.86666666666667,29.9404347,-90.1033596,47,"black","male","TRAFFIC VIOLATION","warning","ford","black",2006
+"no","2015-04-28","Tuesday","01:18:00",1.3,29.922389,-90.076164,23,"white","male","TRAFFIC VIOLATION","arrest","ford","black",2000
+"no","2012-02-26","Sunday","22:05:00",22.0833333333333,29.9401684,-90.1070123,53,"white","female","TRAFFIC VIOLATION","citation","honda","silver",2004
+"no","2013-05-29","Wednesday","16:39:00",16.65,29.9685609,-90.0567196,25,"white","female","TRAFFIC VIOLATION","citation","other","silver",2010
+"no","2015-01-28","Wednesday","16:24:00",16.4,29.9605225,-90.0685048,58,"white","male","TRAFFIC VIOLATION","citation","ford","other",2002
+"no","2013-05-16","Thursday","01:44:00",1.73333333333333,29.9813219,-90.047454,36,"black","female","TRAFFIC VIOLATION","citation","toyota","gray",2006
+"no","2015-10-22","Thursday","23:12:00",23.2,29.9943302,-90.0333583,32,"black","female","TRAFFIC VIOLATION","warning","other","silver",2000
+"no","2016-01-20","Wednesday","10:10:00",10.1666666666667,29.9418116,-90.0733733,39,"white","female","TRAFFIC VIOLATION","citation","ford","gray",2004
+"no","2016-04-07","Thursday","09:57:00",9.95,29.945199,-90.0901423,39,"black","male","TRAFFIC VIOLATION","warning","chevrolet","black",2013
+"no","2013-08-18","Sunday","17:53:00",17.8833333333333,29.9453766,-90.045385,29,"black","female","TRAFFIC VIOLATION","citation","other","white",2006
+"no","2015-06-25","Thursday","04:58:00",4.96666666666667,29.9680313,-90.0850399,22,"black","male","TRAFFIC VIOLATION","citation","other","white",2003
+"no","2014-04-04","Friday","19:01:00",19.0166666666667,29.9735906,-90.0573782,40,"black","male","TRAFFIC VIOLATION","warning","other","other",1998
+"no","2016-08-05","Friday","20:33:00",20.55,29.9630364,-90.1127516,23,"black","female","TRAFFIC VIOLATION","warning","ford","black",2004
+"no","2016-09-26","Monday","08:47:00",8.78333333333333,29.9549337,-90.0718838,34,"black","male","TRAFFIC VIOLATION","citation","other","silver",2004
+"no","2012-06-10","Sunday","10:21:00",10.35,29.9681566,-90.0603961,31,"white","male","TRAFFIC VIOLATION","citation","ford","silver",2005
+"no","2011-08-22","Monday","19:45:00",19.75,29.9512809,-90.0660634,60,"white","male","TRAFFIC VIOLATION","citation","other","white",2011
+"no","2015-04-20","Monday","10:15:00",10.25,29.9625119,-90.0711372,24,"asian/pacific islander","female","TRAFFIC VIOLATION","citation","toyota","gray",2010
+"no","2018-05-27","Sunday","12:24:00",12.4,29.9936906,-90.0500328,39,"black","male","TRAFFIC VIOLATION","citation","other","white",2015
+"no","2016-02-14","Sunday","08:00:00",8,29.9469796,-90.0877326,48,"white","male","TRAFFIC VIOLATION","warning","ford","other",2014
+"no","2018-04-27","Friday","02:29:00",2.48333333333333,29.9725056,-90.0584638,34,"black","female","TRAFFIC VIOLATION","warning","other","black",2006
+"no","2011-05-16","Monday","08:20:00",8.33333333333333,29.9651125,-90.0325242,56,"white","male","CALL FOR SERVICE","citation","honda","other",2007
+"no","2011-08-21","Sunday","22:50:00",22.8333333333333,29.952202,-90.0698072,25,"black","male","TRAFFIC VIOLATION","arrest","honda","other",1999
+"no","2017-01-05","Thursday","20:20:00",20.3333333333333,29.9525012,-90.0682794,27,"white","male","TRAFFIC VIOLATION","warning","other","black",2012
+"no","2011-05-30","Monday","18:50:00",18.8333333333333,29.9382966,-90.0962296,29,"black","male","SUSPECT VEHICLE","warning","toyota","gray",2007
+"no","2014-07-16","Wednesday","00:23:00",0.383333333333333,30.018488,-89.9679354,31,"white","male","TRAFFIC VIOLATION","citation","ford","other",2005
+"no","2017-11-07","Tuesday","23:52:00",23.8666666666667,29.9666977,-90.0952124,26,"black","female","TRAFFIC VIOLATION","warning","toyota","silver",2012
+"no","2017-01-26","Thursday","15:45:00",15.75,29.9418116,-90.0733733,74,"white","male","TRAFFIC VIOLATION","citation","other","black",2012
+"no","2017-12-13","Wednesday","09:36:00",9.6,30.0040349,-90.0357453,32,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2014
+"no","2018-06-26","Tuesday","15:30:00",15.5,29.9408351,-90.082698,42,"black","male","TRAFFIC VIOLATION","warning","toyota","gray",2011
+"no","2012-10-03","Wednesday","20:14:00",20.2333333333333,29.9658888,-90.1162827,26,"black","male","TRAFFIC VIOLATION","arrest","other","gray",2007
+"no","2015-09-14","Monday","13:13:00",13.2166666666667,29.979645,-90.0292182,30,"black","male","TRAFFIC VIOLATION","citation","other","other",2006
+"no","2011-06-04","Saturday","17:09:00",17.15,30.0098863,-90.0209174,38,"black","female","TRAFFIC VIOLATION","citation","other","other",2005
+"no","2016-02-28","Sunday","03:04:00",3.06666666666667,30.0028472,-90.0539504,22,"black","male","TRAFFIC VIOLATION","warning","ford","gray",2003
+"no","2011-06-17","Friday","00:17:00",0.283333333333333,29.9479813,-90.1148711,25,"white","male","TRAFFIC VIOLATION","citation","toyota","white",2003
+"no","2017-07-06","Thursday","20:25:00",20.4166666666667,29.9727603,-90.0920241,22,"black","male","TRAFFIC VIOLATION","citation","other","white",2015
+"no","2013-07-22","Monday","21:12:00",21.2,29.9653357,-90.0335087,31,"black","male","TRAFFIC VIOLATION","citation","other","white",2004
+"no","2012-10-23","Tuesday","11:45:00",11.75,29.9638431,-90.1121329,57,"white","male","TRAFFIC VIOLATION","citation","other","white",2002
+"no","2017-10-05","Thursday","02:31:00",2.51666666666667,29.9862084,-90.0678775,51,"black","male","TRAFFIC VIOLATION","arrest","other","silver",2016
+"no","2017-05-11","Thursday","16:22:00",16.3666666666667,29.9350644,-90.0749762,40,"hispanic","male","TRAFFIC VIOLATION","warning","other","white",2003
+"no","2011-06-23","Thursday","02:30:00",2.5,29.9658888,-90.1162827,45,"black","male","TRAFFIC VIOLATION","citation","other","black",1998
+"no","2012-11-25","Sunday","15:47:00",15.7833333333333,29.9435844,-90.0930107,26,"black","male","TRAFFIC VIOLATION","warning","other","other",2005
+"no","2015-10-19","Monday","04:25:00",4.41666666666667,29.9226559,-90.0179872,25,"black","male","TRAFFIC VIOLATION","warning","other","black",2005
+"no","2016-05-05","Thursday","09:49:00",9.81666666666667,29.9418116,-90.0733733,24,"white","male","TRAFFIC VIOLATION","citation","other","other",2012
+"no","2016-05-12","Thursday","03:46:00",3.76666666666667,29.9743757,-90.100603,23,"black","male","TRAFFIC VIOLATION","warning","toyota","silver",2005
+"no","2012-12-26","Wednesday","02:05:00",2.08333333333333,29.9479533,-90.114452,27,"black","female","TRAFFIC VIOLATION","arrest","other","white",2005
+"no","2011-05-12","Thursday","08:27:00",8.45,29.9700924,-90.1087238,60,"white","female","TRAFFIC VIOLATION","warning","ford","white",1994
+"no","2017-11-08","Wednesday","00:43:00",0.716666666666667,29.9654199,-90.0873618,17,"hispanic","male","TRAFFIC VIOLATION","warning","other","black",1999
+"no","2011-05-08","Sunday","20:12:00",20.2,29.9681801,-90.0913917,52,"black","female","TRAFFIC VIOLATION","warning","chevrolet","white",2002
+"no","2015-09-10","Thursday","20:41:00",20.6833333333333,29.9638552,-90.0889745,55,"black","female","TRAFFIC VIOLATION","warning","other","other",1997
+"no","2015-07-04","Saturday","19:34:00",19.5666666666667,29.962189,-90.074753,28,"white","female","TRAFFIC VIOLATION","citation","other","other",2005
+"no","2016-09-05","Monday","00:24:00",0.4,29.9717851,-90.0722285,61,"black","male","TRAFFIC VIOLATION","arrest","ford","other",1995
+"no","2016-02-20","Saturday","22:21:00",22.35,29.9514442,-90.1250749,28,"black","female","TRAFFIC VIOLATION","warning","other","silver",2008
+"no","2015-08-09","Sunday","01:13:00",1.21666666666667,29.9189134,-90.0835916,18,"black","male","TRAFFIC VIOLATION","warning","honda","other",2005
+"no","2012-09-19","Wednesday","03:59:00",3.98333333333333,29.999446,-90.05941,19,"black","female","TRAFFIC VIOLATION","citation","ford","other",2001
+"no","2015-07-29","Wednesday","08:28:00",8.46666666666667,30.024935,-89.979903,57,"black","female","TRAFFIC VIOLATION","warning","other","other",2005
+"no","2015-04-07","Tuesday","13:11:00",13.1833333333333,30.0027854,-90.0464324,23,"black","female","TRAFFIC VIOLATION","warning","other","other",2003
+"no","2016-03-28","Monday","11:58:00",11.9666666666667,30.0115887,-90.0992118,55,"white","male","TRAFFIC VIOLATION","warning","toyota","other",2005
+"no","2012-11-13","Tuesday","08:21:00",8.35,29.9731851,-90.0585141,22,"black","female","TRAFFIC VIOLATION","citation","chevrolet","white",2012
+"no","2015-03-15","Sunday","01:03:00",1.05,29.9689395,-90.1064339,29,"hispanic","male","TRAFFIC VIOLATION","citation","other","white",2004
+"no","2018-06-07","Thursday","21:32:00",21.5333333333333,29.9461389,-90.098299,35,"black","female","TRAFFIC VIOLATION","warning","other","silver",2013
+"no","2018-01-29","Monday","22:21:00",22.35,29.9451483,-90.0980211,47,"black","male","TRAFFIC VIOLATION","arrest","chevrolet","silver",2004
+"no","2017-03-28","Tuesday","17:37:00",17.6166666666667,29.940533,-90.1242085,34,"white","male","TRAFFIC VIOLATION","citation","ford","black",2010
+"no","2012-12-26","Wednesday","16:18:00",16.3,29.9399025,-90.0856088,30,"black","female","TRAFFIC VIOLATION","citation","other","black",2007
+"no","2016-09-15","Thursday","01:27:00",1.45,29.9556609,-90.0805985,46,"black","female","TRAFFIC VIOLATION","warning","chevrolet","other",2013
+"no","2014-08-11","Monday","20:44:00",20.7333333333333,29.9643324,-90.089684,58,"black","male","TRAFFIC VIOLATION","citation","other","other",1999
+"no","2012-03-28","Wednesday","00:23:00",0.383333333333333,29.9957342,-90.062681,52,"black","female","TRAFFIC VIOLATION","warning","other","black",2007
+"no","2012-09-05","Wednesday","15:35:00",15.5833333333333,29.9492105,-90.0693998,40,"black","female","TRAFFIC VIOLATION","warning","other","white",2007
+"no","2017-11-24","Friday","20:34:00",20.5666666666667,29.9435844,-90.0930107,34,"black","male","TRAFFIC VIOLATION","warning","other","white",2003
+"no","2014-08-02","Saturday","13:05:00",13.0833333333333,29.9413196,-90.0244003,52,"black","female","TRAFFIC VIOLATION","citation","other","other",1999
+"no","2015-01-24","Saturday","02:28:00",2.46666666666667,29.9672,-90.102356,26,"hispanic","male","TRAFFIC VIOLATION","citation","ford","other",2002
+"no","2015-02-05","Thursday","20:55:00",20.9166666666667,29.94274,-90.080204,18,"black","female","TRAFFIC VIOLATION","warning","other","silver",2003
+"no","2015-05-01","Friday","01:42:00",1.7,29.9406786,-90.0999442,56,"black","male","TRAFFIC VIOLATION","arrest","ford","black",2010
+"no","2017-04-27","Thursday","22:12:00",22.2,29.9681801,-90.0913917,31,"white","male","TRAFFIC VIOLATION","warning","other","black",2015
+"no","2013-04-18","Thursday","23:03:00",23.05,29.9754325,-90.0522998,33,"black","female","TRAFFIC VIOLATION","citation","other","white",2005
+"no","2012-08-15","Wednesday","15:43:00",15.7166666666667,30.0039459,-90.04009,23,"black","male","TRAFFIC VIOLATION","citation","other","white",1992
+"no","2017-01-23","Monday","11:54:00",11.9,29.9821058,-90.0195349,19,"black","female","TRAFFIC VIOLATION","citation","other","white",2009
+"no","2013-12-26","Thursday","10:41:00",10.6833333333333,29.9686496,-90.0806454,37,"white","male","TRAFFIC VIOLATION","citation","other","white",2004
+"no","2018-04-28","Saturday","21:53:00",21.8833333333333,30.0070725,-90.0596885,16,"black","male","TRAFFIC VIOLATION","citation","other","gray",2016
+"no","2015-09-03","Thursday","08:46:00",8.76666666666667,29.968316,-90.125779,25,"black","female","CRIMINAL VIOLATION","arrest","other","white",2007
+"no","2014-09-08","Monday","18:25:00",18.4166666666667,29.9382966,-90.0962296,20,"black","male","TRAFFIC VIOLATION","citation","other","other",1999
+"no","2017-06-06","Tuesday","15:33:00",15.55,29.9959161,-90.0588132,19,"black","male","TRAFFIC VIOLATION","warning","other","gray",2013
+"no","2016-12-07","Wednesday","09:17:00",9.28333333333333,29.9633706,-90.083938,42,"black","male","TRAFFIC VIOLATION","warning","other","black",2006
+"no","2018-03-03","Saturday","19:31:00",19.5166666666667,30.0040349,-90.0357453,31,"black","female","TRAFFIC VIOLATION","citation","toyota","gray",2017
+"no","2013-03-19","Tuesday","17:11:00",17.1833333333333,29.9267903,-90.1120946,45,"black","male","TRAFFIC VIOLATION","citation","other","other",2000
+"no","2017-08-10","Thursday","19:38:00",19.6333333333333,29.9642969,-90.1210438,26,"white","male","TRAFFIC VIOLATION","arrest","other","white",2008
+"no","2018-01-19","Friday","19:02:00",19.0333333333333,29.9466735,-90.0770749,38,"black","male","TRAFFIC VIOLATION","warning","other","black",2015
+"no","2014-01-12","Sunday","13:25:00",13.4166666666667,29.9719349,-90.0512437,34,"black","male","TRAFFIC VIOLATION","citation","chevrolet","other",2005
+"no","2011-06-28","Tuesday","22:20:00",22.3333333333333,30.0201821,-90.1144904,32,"white","female","TRAFFIC VIOLATION","citation","other","white",2007
+"no","2014-12-06","Saturday","11:18:00",11.3,29.955669,-90.0668658,21,"black","male","TRAFFIC VIOLATION","citation","other","other",2015
+"no","2013-04-15","Monday","03:06:00",3.1,29.9461389,-90.098299,29,"hispanic","male","TRAFFIC VIOLATION","arrest","other","other",2000
+"no","2014-12-08","Monday","15:57:00",15.95,29.9739899,-90.0886651,47,"black","female","TRAFFIC VIOLATION","citation","other","gray",2006
+"no","2012-03-29","Thursday","14:40:00",14.6666666666667,29.962468,-90.1104483,39,"black","male","TRAFFIC VIOLATION","arrest","chevrolet","silver",2000
+"no","2011-07-20","Wednesday","22:11:00",22.1833333333333,30.0194885,-89.970649,78,"black","male","TRAFFIC VIOLATION","citation","other","other",2003
+"no","2012-02-02","Thursday","09:27:00",9.45,29.993919,-90.034672,69,"black","female","TRAFFIC VIOLATION","warning","other","other",1994
+"no","2017-07-30","Sunday","15:45:00",15.75,29.9750206,-90.0668275,28,"black","male","TRAFFIC VIOLATION","arrest","ford","other",2001
+"no","2015-10-21","Wednesday","08:50:00",8.83333333333333,29.9418116,-90.0733733,30,"white","female","TRAFFIC VIOLATION","citation","other","gray",2007
+"no","2011-08-12","Friday","08:23:00",8.38333333333333,29.9647442,-90.0090478,30,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2007
+"no","2016-10-11","Tuesday","09:32:00",9.53333333333333,29.9266877,-90.081647,27,"black","male","TRAFFIC VIOLATION","citation","other","black",2016
+"no","2015-03-17","Tuesday","03:50:00",3.83333333333333,30.0029831,-90.0526234,24,"black","male","TRAFFIC VIOLATION","citation","other","black",2014
+"no","2015-12-17","Thursday","16:28:00",16.4666666666667,29.968005,-90.1031236,45,"hispanic","male","TRAFFIC VIOLATION","warning","other","silver",2005
+"no","2017-01-25","Wednesday","10:23:00",10.3833333333333,29.9418116,-90.0733733,38,"hispanic","male","TRAFFIC VIOLATION","citation","other","white",2011
+"no","2017-07-31","Monday","21:10:00",21.1666666666667,29.9534327,-90.0974983,34,"black","female","TRAFFIC VIOLATION","citation","honda","black",2014
+"no","2017-05-25","Thursday","22:25:00",22.4166666666667,29.956674,-90.0799039,30,"hispanic","male","TRAFFIC VIOLATION","citation","chevrolet","gray",2005
+"no","2016-11-11","Friday","23:14:00",23.2333333333333,30.0225036,-90.0517497,21,"black","male","TRAFFIC VIOLATION","warning","other","black",2014
+"no","2017-07-31","Monday","09:47:00",9.78333333333333,29.9534327,-90.0974983,51,"black","male","TRAFFIC VIOLATION","citation","ford","other",2005
+"no","2013-11-14","Thursday","02:11:00",2.18333333333333,29.946612,-90.089878,35,"black","female","TRAFFIC VIOLATION","warning","chevrolet","other",2003
+"no","2017-07-28","Friday","09:06:00",9.1,29.9186615,-90.0225894,30,"black","female","TRAFFIC VIOLATION","warning","other","other",2014
+"no","2015-09-16","Wednesday","16:30:00",16.5,30.0046204,-90.1082293,35,"black","male","TRAFFIC VIOLATION","warning","ford","silver",2000
+"no","2017-01-25","Wednesday","13:22:00",13.3666666666667,29.9397159,-90.081508,23,"black","male","TRAFFIC VIOLATION","citation","toyota","other",2006
+"no","2015-04-08","Wednesday","19:52:00",19.8666666666667,29.94506,-90.038826,25,"black","male","TRAFFIC VIOLATION","arrest","other","white",1992
+"no","2016-08-09","Tuesday","07:30:00",7.5,29.9418116,-90.0733733,28,"white","female","TRAFFIC VIOLATION","citation","honda","silver",1998
+"no","2015-07-11","Saturday","00:31:00",0.516666666666667,29.9428029,-90.0882856,32,"black","female","TRAFFIC VIOLATION","citation","other","other",2007
+"no","2014-09-20","Saturday","06:30:00",6.5,29.9431518,-90.0947538,32,"hispanic","male","TRAFFIC VIOLATION","warning","honda","other",1999
+"no","2014-11-03","Monday","21:59:00",21.9833333333333,29.9833422,-90.071838,37,"black","male","TRAFFIC VIOLATION","arrest","other","other",2013
+"no","2016-10-24","Monday","00:08:00",0.133333333333333,29.9441321,-90.0766365,26,"white","female","TRAFFIC VIOLATION","citation","toyota","white",2014
+"no","2018-06-04","Monday","15:02:00",15.0333333333333,30.0134836,-89.9919552,30,"black","male","TRAFFIC VIOLATION","citation","other","silver",2015
+"no","2012-01-14","Saturday","10:50:00",10.8333333333333,29.9666396,-90.0553708,55,"white","male","TRAFFIC VIOLATION","warning","other","silver",2004
+"no","2017-04-01","Saturday","23:43:00",23.7166666666667,29.9743757,-90.100603,36,"black","male","TRAFFIC VIOLATION","warning","toyota","black",2012
+"no","2014-08-11","Monday","12:34:00",12.5666666666667,29.9583827,-90.1050284,37,"white","female","TRAFFIC VIOLATION","citation","ford","other",1999
+"no","2011-07-21","Thursday","01:58:00",1.96666666666667,29.9595013,-90.1165239,51,"black","male","TRAFFIC VIOLATION","citation","toyota","other",1992
+"no","2011-09-04","Sunday","23:45:00",23.75,29.9605225,-90.0685048,24,"white","male","TRAFFIC VIOLATION","citation","ford","other",2002
+"no","2017-01-06","Friday","22:30:00",22.5,29.931482,-90.0851826,57,"white","male","TRAFFIC VIOLATION","warning","chevrolet","black",2016
+"no","2014-10-23","Thursday","03:47:00",3.78333333333333,29.9183691,-90.0865587,27,"white","female","TRAFFIC VIOLATION","arrest","chevrolet","black",2010
+"no","2015-03-26","Thursday","03:58:00",3.96666666666667,29.9405322,-90.0745428,45,"black","male","TRAFFIC VIOLATION","citation","other","white",2010
+"no","2013-11-16","Saturday","10:49:00",10.8166666666667,29.976069,-90.0987993,45,"black","female","TRAFFIC VIOLATION","warning","other","silver",2004
+"no","2015-05-21","Thursday","15:35:00",15.5833333333333,29.945063,-90.067265,53,"white","male","TRAFFIC VIOLATION","citation","chevrolet","other",2005
+"no","2011-09-30","Friday","17:58:00",17.9666666666667,29.9307256,-90.0254899,27,"hispanic","male","TRAFFIC VIOLATION","citation","honda","other",1995
+"no","2017-07-09","Sunday","22:39:00",22.65,29.939015,-90.0848194,27,"black","male","TRAFFIC VIOLATION","arrest","other","other",2006
+"no","2018-05-29","Tuesday","22:06:00",22.1,29.9624186,-90.1136366,51,"black","female","TRAFFIC VIOLATION","warning","other","black",2018
+"no","2016-10-27","Thursday","22:20:00",22.3333333333333,29.9556609,-90.0805985,40,"black","female","TRAFFIC VIOLATION","citation","toyota","other",2001
+"no","2012-05-26","Saturday","22:22:00",22.3666666666667,29.9719809,-90.0395154,50,"hispanic","female","TRAFFIC VIOLATION","citation","other","gray",2002
+"no","2017-07-28","Friday","13:30:00",13.5,29.9674756,-90.1101626,17,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",1997
+"no","2014-10-30","Thursday","03:32:00",3.53333333333333,29.931482,-90.0851826,59,"white","male","TRAFFIC VIOLATION","citation","chevrolet","white",2001
+"no","2017-12-09","Saturday","11:42:00",11.7,29.967215,-90.076277,51,"black","male","TRAFFIC VIOLATION","warning","other","white",2011
+"no","2014-12-02","Tuesday","00:02:00",0.0333333333333333,29.9479533,-90.114452,32,"black","female","TRAFFIC VIOLATION","citation","other","black",2004
+"no","2013-04-04","Thursday","00:57:00",0.95,29.9529913,-90.0686006,26,"black","female","TRAFFIC VIOLATION","citation","other","silver",2009
+"no","2017-10-22","Sunday","00:22:00",0.366666666666667,30.005044,-90.0595282,23,"black","male","TRAFFIC VIOLATION","citation","other","gray",2010
+"no","2012-01-17","Tuesday","22:12:00",22.2,29.9651861,-90.117036,23,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",1999
+"no","2011-05-14","Saturday","10:15:00",10.25,29.9556123,-90.0728905,20,"black","female","TRAFFIC VIOLATION","citation","chevrolet","black",2003
+"no","2014-10-16","Thursday","22:53:00",22.8833333333333,29.9786067,-90.0589479,24,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",2009
+"no","2015-11-02","Monday","08:45:00",8.75,29.9418116,-90.0733733,38,"black","male","TRAFFIC VIOLATION","citation","ford","white",2013
+"no","2017-09-17","Sunday","01:20:00",1.33333333333333,29.9672,-90.102356,47,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",2005
+"no","2015-07-18","Saturday","16:27:00",16.45,29.9713233,-90.0960295,39,"black","female","TRAFFIC VIOLATION","warning","honda","silver",2012
+"no","2015-05-09","Saturday","03:40:00",3.66666666666667,29.9818565,-90.1116209,28,"black","male","TRAFFIC VIOLATION","warning","other","other",2013
+"no","2015-08-05","Wednesday","22:52:00",22.8666666666667,29.9447117,-90.0747877,59,"white","female","TRAFFIC VIOLATION","warning","other","silver",2014
+"no","2017-12-31","Sunday","11:06:00",11.1,30.0082343,-90.0597964,37,"black","female","TRAFFIC VIOLATION","warning","chevrolet","silver",2013
+"no","2016-08-25","Thursday","13:33:00",13.55,30.0061233,-90.0340955,47,"black","male","TRAFFIC VIOLATION","warning","other","silver",2008
+"no","2017-04-29","Saturday","16:17:00",16.2833333333333,29.9311518,-90.1180469,44,"white","female","TRAFFIC VIOLATION","warning","toyota","silver",2000
+"no","2017-08-10","Thursday","05:46:00",5.76666666666667,29.9898219,-90.0586443,36,"hispanic","male","TRAFFIC VIOLATION","citation","chevrolet","silver",2005
+"no","2013-03-19","Tuesday","20:29:00",20.4833333333333,29.9613572,-90.0568857,47,"black","female","TRAFFIC VIOLATION","citation","honda","other",1995
+"no","2017-04-20","Thursday","15:50:00",15.8333333333333,30.005256,-90.036321,34,"black","male","TRAFFIC VIOLATION","citation","other","other",1990
+"no","2015-06-20","Saturday","06:14:00",6.23333333333333,30.0168286,-89.9989732,20,"black","male","TRAFFIC VIOLATION","citation","other","black",2003
+"no","2018-07-11","Wednesday","23:07:00",23.1166666666667,29.9505842,-90.1008721,41,"black","female","TRAFFIC VIOLATION","citation","toyota","gray",2005
+"no","2017-07-20","Thursday","03:16:00",3.26666666666667,29.9587706,-90.0838534,43,"white","male","TRAFFIC VIOLATION","warning","other","other",2016
+"no","2016-09-02","Friday","20:25:00",20.4166666666667,29.9547058,-90.0691416,24,"white","female","TRAFFIC VIOLATION","citation","other","other",2011
+"no","2014-09-03","Wednesday","15:30:00",15.5,29.9685609,-90.0567196,56,"black","female","TRAFFIC VIOLATION","citation","other","black",2006
+"no","2017-03-07","Tuesday","23:00:00",23,30.017647,-90.04246,21,"black","male","SUSPECT PERSON","arrest","toyota","other",2009
+"no","2012-04-20","Friday","23:54:00",23.9,29.9629164,-90.0661486,42,"black","female","TRAFFIC VIOLATION","warning","other","gray",2006
+"no","2016-02-27","Saturday","23:48:00",23.8,29.9431518,-90.0947538,37,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",2003
+"no","2011-07-21","Thursday","10:37:00",10.6166666666667,29.9354207,-90.0721429,26,"black","female","TRAFFIC VIOLATION","warning","ford","white",1999
+"no","2012-02-07","Tuesday","09:28:00",9.46666666666667,29.9949723,-90.0635895,38,"black","female","TRAFFIC VIOLATION","citation","chevrolet","white",1999
+"no","2015-11-18","Wednesday","11:03:00",11.05,29.9483263,-90.0884252,44,"black","male","TRAFFIC VIOLATION","citation","honda","white",1999
+"no","2013-07-23","Tuesday","16:55:00",16.9166666666667,29.9707115,-90.0338731,37,"black","male","TRAFFIC VIOLATION","citation","ford","other",2002
+"no","2015-10-03","Saturday","11:35:00",11.5833333333333,29.9686681,-90.0482202,45,"black","female","TRAFFIC VIOLATION","warning","other","black",2013
+"no","2017-04-02","Sunday","16:21:00",16.35,30.0082343,-90.0597964,39,"black","male","TRAFFIC VIOLATION","citation","chevrolet","black",1996
+"no","2016-10-27","Thursday","19:06:00",19.1,30.0270328,-89.9916272,45,"black","female","TRAFFIC VIOLATION","warning","honda","other",2003
+"no","2017-01-01","Sunday","22:46:00",22.7666666666667,29.9498697,-90.0761587,27,"black","female","CALL FOR SERVICE","arrest","other","black",2006
+"no","2014-12-26","Friday","14:00:00",14,29.9605225,-90.0685048,50,"black","male","TRAFFIC VIOLATION","citation","honda","black",2008
+"no","2017-10-04","Wednesday","21:57:00",21.95,29.9445645,-90.085068,23,"black","male","TRAFFIC VIOLATION","warning","other","white",2004
+"no","2011-10-20","Thursday","14:11:00",14.1833333333333,30.0462227,-89.981906,24,"black","male","TRAFFIC VIOLATION","citation","other","gray",2004
+"no","2016-09-17","Saturday","17:32:00",17.5333333333333,29.9928467,-90.0588853,31,"black","male","TRAFFIC VIOLATION","warning","chevrolet","black",2007
+"no","2017-09-22","Friday","21:08:00",21.1333333333333,29.9653816,-90.0986326,22,"white","female","TRAFFIC VIOLATION","warning","honda","white",2003
+"no","2012-08-06","Monday","22:35:00",22.5833333333333,30.0048363,-90.1082033,29,"black","female","TRAFFIC VIOLATION","warning","ford","other",2002
+"no","2011-08-01","Monday","10:27:00",10.45,29.9672726,-90.0138875,36,"black","male","TRAFFIC VIOLATION","warning","ford","other",1997
+"no","2013-12-13","Friday","13:38:00",13.6333333333333,29.9682635,-90.0471751,29,"white","male","TRAFFIC VIOLATION","citation","toyota","black",2002
+"no","2012-01-25","Wednesday","18:30:00",18.5,30.0382068,-89.9721328,30,"black","male","CALL FOR SERVICE","citation","other","other",2003
+"no","2012-08-11","Saturday","17:47:00",17.7833333333333,29.9434175,-90.0886346,28,"white","male","TRAFFIC VIOLATION","citation","other","silver",2000
+"no","2015-06-23","Tuesday","16:48:00",16.8,29.965848,-90.1178546,31,"black","male","TRAFFIC VIOLATION","warning","other","other",2006
+"no","2017-10-24","Tuesday","09:12:00",9.2,29.9460237,-90.0653139,22,"white","female","TRAFFIC VIOLATION","citation","ford","gray",2012
+"no","2016-08-01","Monday","16:54:00",16.9,30.002778,-90.043556,25,"black","female","TRAFFIC VIOLATION","warning","honda","black",2013
+"no","2012-10-09","Tuesday","22:15:00",22.25,29.9629164,-90.0661486,30,"white","male","TRAFFIC VIOLATION","warning","ford","other",1996
+"no","2016-04-13","Wednesday","20:42:00",20.7,29.9898219,-90.0586443,31,"black","male","TRAFFIC VIOLATION","warning","chevrolet","black",2013
+"no","2014-07-27","Sunday","08:14:00",8.23333333333333,29.9559326,-90.0709286,51,"black","male","TRAFFIC VIOLATION","warning","other","black",1995
+"no","2018-02-06","Tuesday","11:13:00",11.2166666666667,29.9784508,-90.0759724,42,"white","male","CRIMINAL VIOLATION","arrest","ford","black",2002
+"no","2011-08-12","Friday","17:23:00",17.3833333333333,29.9237518,-90.007843,54,"white","female","TRAFFIC VIOLATION","citation","other","other",1999
+"no","2015-07-02","Thursday","12:11:00",12.1833333333333,30.0184668,-89.9704138,36,"white","male","TRAFFIC VIOLATION","citation","ford","white",2006
+"no","2018-05-15","Tuesday","18:48:00",18.8,29.939211,-90.0918769,30,"black","female","TRAFFIC VIOLATION","arrest","other","other",2012
+"no","2011-05-11","Wednesday","05:10:00",5.16666666666667,29.965992,-90.042826,24,"black","female","TRAFFIC VIOLATION","citation","chevrolet","gray",2006
+"no","2018-04-30","Monday","08:52:00",8.86666666666667,29.9382894,-90.0741396,32,"white","male","TRAFFIC VIOLATION","warning","other","black",2016
+"no","2012-07-22","Sunday","08:50:00",8.83333333333333,30.0470726,-89.9725604,28,"black","female","TRAFFIC VIOLATION","citation","other","other",2008
+"no","2014-04-05","Saturday","08:57:00",8.95,29.9620309,-90.0196307,29,"white","male","TRAFFIC VIOLATION","citation","honda","gray",2012
+"no","2016-12-24","Saturday","00:27:00",0.45,30.010883,-90.1210984,17,"white","female","TRAFFIC VIOLATION","warning","chevrolet","black",2010
+"no","2013-07-20","Saturday","13:32:00",13.5333333333333,30.042889,-89.981042,37,"black","female","TRAFFIC VIOLATION","warning","chevrolet","other",2003
+"no","2016-04-15","Friday","17:29:00",17.4833333333333,29.990487,-90.0902037,61,"black","female","TRAFFIC VIOLATION","warning","other","other",2007
+"no","2013-02-09","Saturday","04:41:00",4.68333333333333,29.9682635,-90.0471751,26,"white","female","TRAFFIC VIOLATION","citation","ford","other",2005
+"no","2015-10-21","Wednesday","23:31:00",23.5166666666667,29.9181966,-90.0879425,45,"white","male","TRAFFIC VIOLATION","warning","other","other",2007
+"no","2012-01-09","Monday","18:00:00",18,30.0330627,-90.026074,50,"black","female","TRAFFIC VIOLATION","arrest","other","silver",1997
+"no","2015-03-24","Tuesday","14:37:00",14.6166666666667,29.9233117,-90.0714102,27,"black","male","TRAFFIC VIOLATION","warning","other","other",1997
+"no","2011-08-20","Saturday","21:25:00",21.4166666666667,29.988412,-90.074423,50,"black","male","TRAFFIC VIOLATION","warning","other","white",2000
+"no","2016-03-29","Tuesday","22:58:00",22.9666666666667,29.9559278,-90.1203159,59,"white","female","TRAFFIC VIOLATION","warning","ford","other",2008
+"no","2012-09-21","Friday","10:57:00",10.95,29.963192,-90.058878,58,"black","male","TRAFFIC VIOLATION","warning","toyota","silver",2007
+"no","2015-11-05","Thursday","05:00:00",5,30.003104,-90.048287,55,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",1992
+"no","2013-06-25","Tuesday","16:02:00",16.0333333333333,30.0262227,-90.0245587,33,"black","male","TRAFFIC VIOLATION","citation","other","white",2010
+"no","2014-09-23","Tuesday","10:00:00",10,29.9642411,-90.0729556,25,"black","male","TRAFFIC VIOLATION","citation","other","other",2012
+"no","2012-01-06","Friday","16:32:00",16.5333333333333,29.9689316,-90.0501067,47,"white","male","TRAFFIC VIOLATION","citation","other","other",2000
+"no","2015-12-03","Thursday","00:45:00",0.75,29.9209365,-90.0773933,43,"white","male","TRAFFIC VIOLATION","warning","other","silver",1999
+"no","2014-06-26","Thursday","01:55:00",1.91666666666667,29.9286089,-90.0902513,21,"white","female","TRAFFIC VIOLATION","arrest","ford","white",2004
+"no","2018-07-09","Monday","12:18:00",12.3,29.9406786,-90.0999442,24,"black","male","TRAFFIC VIOLATION","warning","other","white",2005
+"no","2012-01-08","Sunday","17:40:00",17.6666666666667,29.9451537,-90.0409188,25,"white","male","TRAFFIC VIOLATION","citation","ford","black",1988
+"no","2018-05-01","Tuesday","17:17:00",17.2833333333333,30.0028452,-90.053051,32,"black","female","TRAFFIC VIOLATION","citation","other","gray",2010
+"no","2011-06-30","Thursday","03:00:00",3,29.9629164,-90.0661486,24,"white","male","TRAFFIC VIOLATION","citation","other","white",2003
+"no","2015-06-11","Thursday","02:21:00",2.35,29.976069,-90.0987993,56,"black","male","TRAFFIC VIOLATION","warning","chevrolet","other",1991
+"no","2011-11-18","Friday","02:54:00",2.9,29.9689316,-90.0501067,19,"black","male","TRAFFIC VIOLATION","citation","chevrolet","black",2003
+"no","2016-11-01","Tuesday","20:11:00",20.1833333333333,29.9737055,-90.0466713,23,"white","male","TRAFFIC VIOLATION","warning","chevrolet","other",2003
+"no","2015-08-08","Saturday","06:41:00",6.68333333333333,29.970934,-90.0669794,32,"white","male","TRAFFIC VIOLATION","arrest","chevrolet","other",2006
+"no","2011-11-28","Monday","09:05:00",9.08333333333333,29.9834405,-90.0980978,24,"black","female","TRAFFIC VIOLATION","arrest","toyota","other",2000
+"no","2012-05-01","Tuesday","02:55:00",2.91666666666667,29.9861598,-90.0690487,57,"black","male","TRAFFIC VIOLATION","warning","chevrolet","silver",2002
+"no","2014-07-20","Sunday","13:06:00",13.1,29.9918355,-90.0588078,62,"white","female","TRAFFIC VIOLATION","warning","other","other",1991
+"no","2014-09-17","Wednesday","01:52:00",1.86666666666667,29.9363103,-90.0718851,39,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2005
+"no","2012-02-24","Friday","20:32:00",20.5333333333333,29.9784508,-90.0759724,33,"white","male","TRAFFIC VIOLATION","citation","ford","gray",1998
+"no","2014-06-06","Friday","10:05:00",10.0833333333333,29.9949723,-90.0635895,30,"black","male","TRAFFIC VIOLATION","arrest","other","gray",2002
+"no","2016-07-24","Sunday","14:02:00",14.0333333333333,29.939015,-90.0848194,22,"white","male","TRAFFIC VIOLATION","warning","toyota","black",2014
+"no","2011-10-07","Friday","23:42:00",23.7,29.9589381,-90.0699227,52,"black","male","TRAFFIC VIOLATION","warning","other","other",2005
+"no","2014-11-18","Tuesday","19:32:00",19.5333333333333,29.9376368,-90.0836262,37,"black","female","TRAFFIC VIOLATION","citation","other","other",2008
+"no","2012-06-06","Wednesday","15:00:00",15,29.944205,-90.08645,29,"black","male","SUSPECT PERSON","arrest","ford","silver",2012
+"no","2011-12-13","Tuesday","23:21:00",23.35,29.9559345,-90.0733517,23,"black","male","TRAFFIC VIOLATION","citation","toyota","gray",2005
+"no","2012-03-10","Saturday","19:35:00",19.5833333333333,29.9579553,-90.1232586,33,"black","female","TRAFFIC VIOLATION","warning","chevrolet","white",2000
+"no","2014-08-25","Monday","15:10:00",15.1666666666667,29.9914714,-90.0777626,21,"black","male","TRAFFIC VIOLATION","citation","chevrolet","silver",2005
+"no","2015-11-26","Thursday","01:40:00",1.66666666666667,30.0016704,-90.0502873,18,"black","female","TRAFFIC VIOLATION","warning","ford","other",2005
+"no","2015-10-16","Friday","10:55:00",10.9166666666667,29.9418116,-90.0733733,48,"white","male","TRAFFIC VIOLATION","citation","toyota","white",2002
+"no","2018-01-26","Friday","02:32:00",2.53333333333333,29.9750206,-90.0668275,33,"black","female","TRAFFIC VIOLATION","warning","other","black",2016
+"no","2014-09-29","Monday","04:51:00",4.85,29.9685609,-90.0567196,64,"black","male","TRAFFIC VIOLATION","citation","other","other",1992
+"no","2015-12-23","Wednesday","14:18:00",14.3,30.0123234,-89.9985744,70,"black","female","TRAFFIC VIOLATION","warning","toyota","gray",2012
+"no","2013-03-11","Monday","12:45:00",12.75,30.0029806,-90.0501497,50,"black","male","TRAFFIC VIOLATION","warning","chevrolet","white",2001
+"no","2017-06-01","Thursday","15:56:00",15.9333333333333,29.9426038,-90.0273846,36,"black","male","TRAFFIC VIOLATION","arrest","ford","other",2000
+"no","2017-11-03","Friday","01:15:00",1.25,29.9496567,-90.0705825,32,"white","male","TRAFFIC VIOLATION","warning","other","other",2005
+"no","2011-12-30","Friday","02:42:00",2.7,30.0330627,-90.026074,36,"black","male","TRAFFIC VIOLATION","arrest","chevrolet","other",1998
+"no","2015-07-08","Wednesday","23:20:00",23.3333333333333,30.0098863,-90.0209174,78,"black","male","TRAFFIC VIOLATION","warning","other","white",2008
+"no","2014-07-29","Tuesday","00:17:00",0.283333333333333,30.0250188,-90.0614851,24,"black","female","TRAFFIC VIOLATION","warning","chevrolet","other",2012
+"no","2012-12-20","Thursday","18:38:00",18.6333333333333,29.977528,-90.074648,33,"black","female","TRAFFIC VIOLATION","arrest","honda","gray",2010
+"no","2016-05-02","Monday","11:15:00",11.25,29.9418116,-90.0733733,30,"white","male","TRAFFIC VIOLATION","citation","ford","other",2004
+"no","2018-03-07","Wednesday","13:04:00",13.0666666666667,29.9386078,-90.0505463,81,"black","male","TRAFFIC VIOLATION","warning","other","gray",2012
+"no","2012-05-21","Monday","18:37:00",18.6166666666667,29.9247882,-90.0215129,19,"black","female","TRAFFIC VIOLATION","citation","other","black",2000
+"no","2017-09-25","Monday","16:45:00",16.75,29.961607,-90.11426,55,"white","female","TRAFFIC VIOLATION","citation","other","white",2006
+"no","2011-12-07","Wednesday","09:25:00",9.41666666666667,29.9428029,-90.0882856,20,"black","female","TRAFFIC VIOLATION","citation","chevrolet","other",2001
+"no","2011-08-22","Monday","00:48:00",0.8,30.0061233,-90.0340955,36,"black","male","TRAFFIC VIOLATION","arrest","other","black",2000
+"no","2016-09-25","Sunday","17:45:00",17.75,29.945553,-90.099305,32,"black","male","TRAFFIC VIOLATION","arrest","other","other",2006
+"no","2018-03-23","Friday","01:48:00",1.8,30.0123234,-89.9985744,29,"black","male","TRAFFIC VIOLATION","warning","honda","silver",2007
+"no","2015-09-10","Thursday","19:01:00",19.0166666666667,29.962302,-90.0502052,50,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2006
+"no","2012-10-15","Monday","18:25:00",18.4166666666667,29.937962,-90.0667708,46,"black","male","TRAFFIC VIOLATION","citation","other","other",2008
+"no","2011-09-14","Wednesday","14:29:00",14.4833333333333,30.0069148,-90.0826651,47,"white","female","TRAFFIC VIOLATION","warning","other","other",1999
+"no","2012-02-28","Tuesday","10:49:00",10.8166666666667,30.0386522,-89.955067,43,"black","female","CALL FOR SERVICE","citation","other","white",2010
+"no","2012-03-12","Monday","10:30:00",10.5,29.9535414,-90.0830515,31,"white","male","CALL FOR SERVICE","citation","chevrolet","black",2004
+"no","2015-10-14","Wednesday","08:35:00",8.58333333333333,30.011104,-90.0106647,33,"white","male","TRAFFIC VIOLATION","citation","honda","black",2010
+"no","2015-01-12","Monday","07:03:00",7.05,30.0185242,-90.0931708,61,"white","male","TRAFFIC VIOLATION","warning","ford","silver",2003
+"no","2015-02-10","Tuesday","13:12:00",13.2,29.9625119,-90.0711372,50,"white","female","TRAFFIC VIOLATION","citation","ford","other",2002
+"no","2014-01-10","Friday","05:32:00",5.53333333333333,30.0356352,-89.9969218,28,"black","male","TRAFFIC VIOLATION","citation","other","other",2008
+"no","2017-01-02","Monday","00:07:00",0.116666666666667,29.9637225,-90.0654699,30,"white","male","TRAFFIC VIOLATION","warning","chevrolet","gray",2005
+"no","2014-11-11","Tuesday","19:29:00",19.4833333333333,29.962189,-90.074753,24,"black","female","TRAFFIC VIOLATION","warning","chevrolet","other",2001
+"no","2015-08-09","Sunday","15:50:00",15.8333333333333,29.9409475,-90.1089812,61,"white","male","TRAFFIC VIOLATION","warning","other","gray",2007
+"no","2017-11-17","Friday","05:13:00",5.21666666666667,30.005256,-90.036321,66,"black","male","TRAFFIC VIOLATION","citation","ford","other",2003
+"no","2018-06-20","Wednesday","10:22:00",10.3666666666667,29.94524,-90.100085,55,"black","male","TRAFFIC VIOLATION","citation","other","other",2004
+"no","2018-02-03","Saturday","20:38:00",20.6333333333333,29.9438228,-90.0696613,23,"black","male","TRAFFIC VIOLATION","warning","toyota","gray",2013
+"no","2015-04-10","Friday","13:58:00",13.9666666666667,30.039695,-89.97794,51,"black","female","TRAFFIC VIOLATION","citation","other","white",2001
+"no","2015-01-14","Wednesday","12:14:00",12.2333333333333,29.9210548,-89.9949846,26,"white","female","TRAFFIC VIOLATION","citation","honda","black",2008
+"no","2018-06-04","Monday","19:30:00",19.5,29.981367,-90.0773736,37,"black","male","OTHER","arrest","other","gray",2013
+"no","2014-08-20","Wednesday","04:00:00",4,29.9821058,-90.0195349,37,"black","female","TRAFFIC VIOLATION","citation","other","black",2006
+"no","2012-08-06","Monday","19:22:00",19.3666666666667,29.9558029,-90.1255576,19,"black","male","TRAFFIC VIOLATION","citation","toyota","gray",2012
+"no","2013-10-13","Sunday","16:03:00",16.05,29.934571,-90.0888416,25,"black","male","TRAFFIC VIOLATION","arrest","chevrolet","silver",2007
+"no","2014-12-03","Wednesday","19:33:00",19.55,30.0386522,-89.955067,49,"black","male","TRAFFIC VIOLATION","citation","toyota","other",2009
+"no","2014-12-10","Wednesday","06:42:00",6.7,29.9642411,-90.0729556,33,"white","male","TRAFFIC VIOLATION","citation","other","white",1993
+"no","2014-09-19","Friday","01:33:00",1.55,29.9230231,-90.0888336,44,"white","male","TRAFFIC VIOLATION","warning","chevrolet","other",2007
+"no","2011-05-28","Saturday","12:57:00",12.95,29.964142,-90.0717772,55,"black","male","TRAFFIC VIOLATION","citation","other","other",1988
+"no","2011-11-09","Wednesday","10:36:00",10.6,29.9794788,-90.1077152,32,"white","male","TRAFFIC VIOLATION","arrest","ford","silver",2005
+"no","2013-12-23","Monday","21:43:00",21.7166666666667,30.0486256,-89.9617791,54,"black","male","TRAFFIC VIOLATION","citation","other","black",2005
+"no","2012-09-25","Tuesday","09:56:00",9.93333333333333,29.9462098,-90.0408575,31,"black","male","TRAFFIC VIOLATION","warning","other","white",2010
+"no","2017-02-02","Thursday","00:53:00",0.883333333333333,29.969221,-90.092953,22,"white","female","TRAFFIC VIOLATION","citation","other","other",2013
+"no","2016-07-02","Saturday","20:00:00",20,29.974537,-90.100427,30,"white","female","TRAFFIC VIOLATION","warning","chevrolet","other",2015
+"no","2011-11-24","Thursday","21:54:00",21.9,29.9648789,-90.0513759,41,"white","female","TRAFFIC VIOLATION","warning","honda","black",2010
+"no","2013-08-18","Sunday","14:02:00",14.0333333333333,29.9866035,-90.0989989,48,"white","male","TRAFFIC VIOLATION","citation","other","silver",2004
+"no","2011-08-02","Tuesday","13:08:00",13.1333333333333,30.041523,-89.9794447,20,"black","male","TRAFFIC VIOLATION","citation","chevrolet","white",2005
+"no","2015-08-16","Sunday","21:40:00",21.6666666666667,29.9638431,-90.1121329,26,"black","male","TRAFFIC VIOLATION","warning","chevrolet","silver",1999
+"no","2011-10-18","Tuesday","23:30:00",23.5,29.9566221,-90.0719835,29,"white","female","TRAFFIC VIOLATION","warning","toyota","silver",2011
+"no","2014-02-11","Tuesday","10:19:00",10.3166666666667,29.9617186,-90.090609,42,"white","female","TRAFFIC VIOLATION","citation","other","white",2010
+"no","2011-11-25","Friday","15:54:00",15.9,29.9696472,-90.1076267,48,"white","female","TRAFFIC VIOLATION","citation","toyota","other",2011
+"no","2016-10-04","Tuesday","20:50:00",20.8333333333333,29.9708199,-90.0392904,32,"black","female","TRAFFIC VIOLATION","citation","honda","other",2014
+"no","2016-08-09","Tuesday","22:04:00",22.0666666666667,29.9268141,-90.0989111,23,"black","female","TRAFFIC VIOLATION","citation","honda","other",2000
+"no","2012-11-14","Wednesday","09:15:00",9.25,29.9615492,-90.0167688,54,"white","male","TRAFFIC VIOLATION","citation","ford","black",1999
+"no","2015-01-01","Thursday","15:40:00",15.6666666666667,29.9675307,-90.0568912,62,"asian/pacific islander","female","TRAFFIC VIOLATION","warning","toyota","silver",2005
+"no","2012-01-01","Sunday","18:15:00",18.25,29.9620382,-90.0780899,52,"hispanic","male","TRAFFIC VIOLATION","citation","ford","black",1994
+"no","2018-01-04","Thursday","00:39:00",0.65,29.9645108,-90.0859951,25,"other","male","TRAFFIC VIOLATION","warning","toyota","white",2009
