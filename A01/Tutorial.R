@@ -8,3 +8,6 @@ mydata$vehicle.make[1:5]
 
 # Checking NA values
 sum(is.na(mydata))
+
+
+
