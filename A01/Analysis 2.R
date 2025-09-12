@@ -84,3 +84,30 @@ truehist(SanAntonio$subject.age.log, xlab = "log Age of Subjects",
          col = "dodgerblue3")
 curve(dnorm(x, age.log.mean, age.log.sd), col='red', add=TRUE, lwd=1.5)
 
+# I'd like to note here that this choice of bins, though default, looks pretty
+# good for the shape of the graph. Though it may help to trial an error
+# some other bin sizes and see if something else is better.
+
+
+# 2c) 
+# plot an e.c.d.f for this dataset:
+plot(ecdf(SanAntonio$subject.age), xlab = "Subject's Ages", 
+          main="e.c.d.f of Subject Ages",
+          las=1, lwd=2, pch=NA)
+curve(pnorm(x, age.mean, age.sd), col="red", add=TRUE, lwd=1.5, lty=2)
+
+plot(ecdf(SanAntonio$subject.age.log), xlab="Log of Subject's Ages", 
+     main="e.c.d.f of log of Subject Ages",
+     las=1, lwd=2, pch=NA)
+
+curve(pnorm(x, age.log.mean, age.log.sd), col="red", add=TRUE, lwd=1.5, lty=2)
+
+
+# 2d)
+# How well does your data fit a Gaussian Model?
+# from the original dataset, we can find the mean, median, skewness and kurtosis
+age.kurtosis
+age.skewness
+
+age.log.kurtosis
+age.log.skewness
