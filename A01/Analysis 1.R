@@ -3,6 +3,8 @@
 # percentage of stops for each category
 
 ### Ask about the best way to sort and send "other" to the end
+### I've googled you can manually set an order, but is there a way to just 
+### ensure that 'other' goes to the end without altering the other categories?
 
 # Categories: subject.race or vehicle.make
 
@@ -81,4 +83,4 @@ legend("topright", legend=c("NO", "SA"), fill = c("forestgreen", "dodgerblue3"),
 # extrapolate that the make of vehicle doesn't have a substantial impact
 # on whether or not its stopped
 
-# race is another story...
+# race is another story

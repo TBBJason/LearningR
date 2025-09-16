@@ -111,3 +111,25 @@ age.skewness
 
 age.log.kurtosis
 age.log.skewness
+
+# the kurtosis and skewness are practically there (close to 3 and 0), so I'd say that 
+# it is close enough to reasonable assume a gaussian distribution.
+# Also, it's worth noting that the log function of the age has a better kurtosis
+# and skewness for a gaussian distribution
+# I'm not too sure what is meant by compare at least 3 variates; I thought the age
+# was the variate here.
+
+
+# 2e)
+# Generate a scatterplot whose x-axis corresponds to subject.age
+# and y-axis corresponds to vehicle.year for San Antonio
+
+plot(SanAntonio$subject.age, SanAntonio$vehicle.year, xlab="age", ylab="vehicle age")
+
+# 2f)
+# Calculate the correlation between the 2 variates:
+cor(SanAntonio$subject.age, SanAntonio$vehicle.year)
+# from this we see that the correlation is 0.038. The correlation coefficient
+# goes from -1 to 1, 0 indicating no correlation. Because the coefficient is so close
+# to 0, I think it makes sense to assume there is a weak correlation, almost no correlation
+
